@@ -8,15 +8,13 @@
   },
   "properties": {
     "adaptGameResolutionAtRuntime": true,
-    "antialiasingMode": "MSAA",
-    "antialisingEnabledOnMobile": false,
     "folderProject": false,
     "orientation": "landscape",
     "packageName": "com.example.gamename",
     "pixelsRounding": true,
     "projectUuid": "c149d315-ae55-42e8-876e-ce32b235b549",
     "scaleMode": "nearest",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -63,10 +61,1407 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Level2Map/Dungeon-Platformer-Game-Tileset5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset5.jpg",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Level2Map/Dungeon-Platformer-Game-Tileset4-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Assets/Level2Map/Dungeon-Platformer-Game-Tileset4-removebg-preview.png\",\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Players/Dwarf Sprite Sheet 1.3v.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Level3Map/Cartoon-Dungeon-Platform-2D-Tile-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Level3Map\\Cartoon-Dungeon-Platform-2D-Tile-removebg-preview.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview24",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview25",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview26",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview27",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Players/Archaeologist Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview28",
+        "smoothed": false,
+        "userAdded": true
+      }
+    ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "height": 720,
+      "name": "Background",
+      "tags": "",
+      "texture": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset5.jpg",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 1280,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "name": "Adventure",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Block1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Block2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Block3",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Block4",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Block5",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder3",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder4",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Water1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Water2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Rood",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Block7",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Block8",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview19",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Archaeologist",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Players\\Archaeologist Sprite Sheet",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Pillar1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview20",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Pillar2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview21",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Stair1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview22",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Box",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview23",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Key",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview24",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Box2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview25",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Trap",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview26",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Door",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview27",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Monster",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\enemies\\Skellington_1\\skellington_1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "objectsGroups": [],
   "variables": [],
   "layouts": [
@@ -210,10 +1605,1523 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.5843784410740942,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "72fb3040-c5f1-4c16-8cec-822748d5eec4",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "4f7b12f5-26b5-4267-b25b-1c7b16955143",
+          "width": 63,
+          "x": 0,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "b1c04405-9825-4c32-ac3d-46ec6b41d19c",
+          "width": 63,
+          "x": 174,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "3b87826e-1844-4d93-8d73-0c23cfc57e54",
+          "width": 63,
+          "x": 116,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "5de95c4f-4e61-453c-be8b-ad243b01532e",
+          "width": 63,
+          "x": 57,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "925bd1b7-c608-460d-a186-8b9ab2f149e3",
+          "width": 63,
+          "x": 576,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "fef8cf8d-84aa-4de6-9c8e-ad9272216034",
+          "width": 63,
+          "x": 517,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "89e98b28-f586-40de-9a48-cd4011e9c585",
+          "width": 63,
+          "x": 458,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "25da6e7f-c111-497b-bcbb-94424f0fc369",
+          "width": 71,
+          "x": 0,
+          "y": 232,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "3f0f05fa-61e9-4f45-94b9-25d746d9db08",
+          "width": 71,
+          "x": 64,
+          "y": 232,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "8b01d22d-254d-4e29-913b-ab3e124c2fa1",
+          "width": 71,
+          "x": 128,
+          "y": 232,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "e6ae05ae-0d0e-4832-af8a-e7fb6fdee70c",
+          "width": 44,
+          "x": 193,
+          "y": 232,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "a6f3d6d8-9a9e-4236-ab08-ebdef62f141f",
+          "width": 71,
+          "x": 0,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "446cfe49-99bd-4669-8e2a-82e9760e762a",
+          "width": 71,
+          "x": 63,
+          "y": 293,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "9b4ceb3c-e2ec-4039-8bfb-8905e1e67e9e",
+          "width": 71,
+          "x": 127,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "d2e6d1e3-07a9-4089-9276-0788b21b9778",
+          "width": 71,
+          "x": 192,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "97ac8e88-6bed-4ee2-9e87-00089ad58df6",
+          "width": 71,
+          "x": 595,
+          "y": 232,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "8f684c0e-429b-495c-8008-401b35ffedd4",
+          "width": 71,
+          "x": 531,
+          "y": 232,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "2da045fc-78aa-42d6-9d7c-ccc5b20f4b3b",
+          "width": 71,
+          "x": 465,
+          "y": 232,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "da1fce14-052d-4c01-bc63-07e5613243a2",
+          "width": 104,
+          "x": 561,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "299c9643-62ab-418a-b5ea-25bd54ade0dd",
+          "width": 71,
+          "x": 503,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "5c567add-c5b5-42bb-9115-437a782604ad",
+          "width": 71,
+          "x": 442,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "c5c2ea3a-b22b-481a-a951-b076756f3d07",
+          "width": 71,
+          "x": 377,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "bc0973ac-70f6-4ab3-b154-8efdb2498e4f",
+          "width": 71,
+          "x": 255,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 67,
+          "layer": "BackGround",
+          "name": "Block4",
+          "persistentUuid": "3486f350-1761-4121-a393-88bcdd303899",
+          "width": 71,
+          "x": 313,
+          "y": 292,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "3058c4bb-85dd-4e65-9823-745ab98c42b4",
+          "width": 50,
+          "x": 231,
+          "y": 274,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "49521f30-35d2-474c-9618-cf87d83264f4",
+          "width": 43,
+          "x": 280,
+          "y": 274,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "bd5e8b38-2851-4137-b8b2-57c84df2fc39",
+          "width": 44,
+          "x": 322,
+          "y": 274,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "279fcb0b-080b-4078-9947-e3985d86384e",
+          "width": 45,
+          "x": 365,
+          "y": 274,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 35,
+          "layer": "BackGround",
+          "name": "Water1",
+          "persistentUuid": "0c8224d3-dd41-46f8-b2b1-ed2f00ff32e5",
+          "width": 241,
+          "x": 230,
+          "y": 205,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 71,
+          "layer": "BackGround",
+          "name": "Water2",
+          "persistentUuid": "b8022c7f-5570-40f4-a138-735911c5d688",
+          "width": 255,
+          "x": 227,
+          "y": 231,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "ad7a5235-a6ae-4bd0-b5d0-5e6d5c7afab4",
+          "width": 63,
+          "x": 633,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "01ddeb1f-d38f-4f2d-a96a-ae6e02ee1c84",
+          "width": 63,
+          "x": 693,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "e47757f9-6bba-4f2f-8c96-babb74318905",
+          "width": 63,
+          "x": 748,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "769e88aa-4b8e-43c6-ae3c-8e1c4a06c213",
+          "width": 63,
+          "x": 802,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "13c55f5c-2338-4ac0-a12c-43f03a727cc6",
+          "width": 63,
+          "x": 858,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "56447008-f940-4992-b74b-8aff99cef1a6",
+          "width": 63,
+          "x": 1219,
+          "y": -3,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "7c07f070-c820-438b-9e00-d16dd971aee8",
+          "width": 63,
+          "x": 1158,
+          "y": -3,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "f5a31d31-afa4-408a-b7fc-1b3292908e60",
+          "width": 63,
+          "x": 1158,
+          "y": 51,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "b1add7a5-a5d2-4d73-94ae-ca5efc49dfb5",
+          "width": 63,
+          "x": 1220,
+          "y": 52,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "6a63f34b-7166-415c-be48-555472f654d4",
+          "width": 63,
+          "x": 1219,
+          "y": 104,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "bc03c542-fdf5-4a44-bfb4-4eb82ff02d37",
+          "width": 63,
+          "x": 1158,
+          "y": 106,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "5999eaa5-5ee5-4f22-807f-ed24384ff3bd",
+          "width": 63,
+          "x": 1158,
+          "y": 160,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "ec837b83-2feb-4a82-8a42-410dbfd1a3b3",
+          "width": 63,
+          "x": 1219,
+          "y": 160,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "2cec0a29-3b78-4acf-b728-fd2badc2810d",
+          "width": 63,
+          "x": 1218,
+          "y": 214,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "1484cd37-6ccb-434a-8f14-68f384454155",
+          "width": 63,
+          "x": 1158,
+          "y": 214,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "621ea7c4-ddc5-4348-833d-413d61da9c28",
+          "width": 63,
+          "x": 1158,
+          "y": 268,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "1d9c056d-4c5e-4ad7-bf86-1c5bd73d510e",
+          "width": 63,
+          "x": 1218,
+          "y": 268,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "7dc13a4d-c73b-49a0-a8dd-028f8da105eb",
+          "width": 63,
+          "x": 916,
+          "y": 175,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 87,
+          "layer": "BackGround",
+          "name": "Door",
+          "persistentUuid": "9d19113e-e242-4a2b-974c-4b51ceb37470",
+          "width": 55,
+          "x": 18,
+          "y": 91,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Adventure",
+          "persistentUuid": "363a4fe8-70e8-40bf-80e8-49afa05fa41c",
+          "width": 65,
+          "x": 67,
+          "y": 122,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "52da6f27-f821-498e-9f09-1b974b9f0976",
+          "width": 63,
+          "x": 652,
+          "y": 405,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "7e798690-6e25-4af2-901d-0d8faacce6ce",
+          "width": 63,
+          "x": 594,
+          "y": 405,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "0f18781e-b144-4903-8e8c-7e1f4e4cfae5",
+          "width": 63,
+          "x": 882,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "b3afb425-cca9-4ba7-9b1d-60fdccc0bc75",
+          "width": 63,
+          "x": 823,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "8e162476-fcc6-41a2-bda8-83621cbe9f78",
+          "width": 63,
+          "x": 764,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "42e3667b-c05e-493d-9918-66c8b0b4c420",
+          "width": 63,
+          "x": 705,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "e91a363f-547b-43c6-ab0c-4890022758f2",
+          "width": 63,
+          "x": 939,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "cbd07b25-4e30-4dbe-b269-1a7dddeb1969",
+          "width": 63,
+          "x": 999,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "fe31a982-d839-487a-8145-82458fc63aec",
+          "width": 63,
+          "x": 1054,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "b453d416-d21b-4820-b633-9f569e685035",
+          "width": 63,
+          "x": 1108,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "63f7d2e5-ec4f-41ec-a547-b88967de744f",
+          "width": 63,
+          "x": 1164,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "292d0c18-c1b2-485f-ae40-b1f419f76491",
+          "width": 63,
+          "x": 1222,
+          "y": 407,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "3f8baa9e-7e6b-45bf-bf5d-a688347817e5",
+          "width": 147,
+          "x": -9,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "4fdc8c9c-60a6-40eb-bfbe-1e6f58ee1694",
+          "width": 147,
+          "x": 110,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "cdaf4d97-35a9-4488-9e98-c105fc35c64b",
+          "width": 147,
+          "x": 235,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "1d919aca-838a-4603-b952-0d0fce2ff529",
+          "width": 147,
+          "x": 359,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "5212e35a-d57c-4183-a269-9fd7986bddf7",
+          "width": 147,
+          "x": 487,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "c0d5ccb1-ddee-4a6d-a307-b2dbd1b503e2",
+          "width": 147,
+          "x": 612,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "867bb397-f3b7-4f92-9021-7a7b0de5b1fc",
+          "width": 147,
+          "x": 734,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "72498698-20c6-497a-a0e7-5ea318a6af22",
+          "width": 147,
+          "x": 856,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "03cfd10c-3e80-4aec-ad41-abb90272c34f",
+          "width": 147,
+          "x": 983,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "eb23c7f3-03ad-4a0a-a294-284b8f34544b",
+          "width": 147,
+          "x": 1110,
+          "y": 701,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "e12df686-77e4-4883-a9c5-ae8b7b6702e6",
+          "width": 147,
+          "x": 1227,
+          "y": 675,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Stair1",
+          "persistentUuid": "43ebda7c-fcf6-44d9-aede-5c566dc0a28f",
+          "width": 63,
+          "x": 704,
+          "y": 408,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Stair1",
+          "persistentUuid": "d144df78-ae32-4be5-adb7-8397eabf1a7b",
+          "width": 63,
+          "x": 704,
+          "y": 464,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Stair1",
+          "persistentUuid": "85adfbbc-181d-4413-a697-4601b41076b3",
+          "width": 63,
+          "x": 704,
+          "y": 518,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Stair1",
+          "persistentUuid": "7f7b0232-2529-4068-a383-16337be914ee",
+          "width": 63,
+          "x": 704,
+          "y": 570,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Stair1",
+          "persistentUuid": "c09d66a8-15ae-4ce1-b6d7-d9d2bf77ffb8",
+          "width": 63,
+          "x": 704,
+          "y": 621,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Archaeologist",
+          "persistentUuid": "aff99ccf-16d7-464e-96ec-d09ac5d55fb5",
+          "width": 50,
+          "x": 106,
+          "y": 121,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Monster",
+          "persistentUuid": "c0eb320e-0f9d-48be-b526-5395b28a0827",
+          "width": 50,
+          "x": 1037,
+          "y": 353,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "37bff93c-32d7-4f60-975b-b7b3fccdb5b0",
+          "width": 45,
+          "x": 1120,
+          "y": 683,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "8adc48f9-8f36-4c35-9570-0271d2871eee",
+          "width": 45,
+          "x": 1165,
+          "y": 682,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Box",
+          "persistentUuid": "142bd4fc-25fe-47a5-a4ee-5795f7be7172",
+          "width": 60,
+          "x": 1042,
+          "y": 620,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Pillar2",
+          "persistentUuid": "a25b7187-7e3e-4d20-9f0d-c1b96c10675a",
+          "width": 57,
+          "x": 598,
+          "y": 352,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "bbfa55b8-77a4-441f-8628-938586b9e9d0",
+          "width": 28,
+          "x": 1208,
+          "y": 683,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 45,
+          "layer": "BackGround",
+          "name": "Key",
+          "persistentUuid": "33230042-7ff4-4fd9-9cea-243d54a1827e",
+          "width": 29,
+          "x": 1243,
+          "y": 626,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Monster",
+          "persistentUuid": "85fdea11-cbd6-463e-b734-e1dd8ca04b6c",
+          "width": 50,
+          "x": 869,
+          "y": 353,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Monster",
+          "persistentUuid": "5bccc3ee-d6ae-4489-81e7-f3012fd9eaed",
+          "width": 50,
+          "x": 895,
+          "y": 618,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Box",
+          "persistentUuid": "c960bbb1-d929-42f9-96f9-e3313240670b",
+          "width": 60,
+          "x": 175,
+          "y": 120,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 87,
+          "layer": "BackGround",
+          "name": "Door",
+          "persistentUuid": "a279599d-05cf-401e-b44a-f367b27a196a",
+          "width": 55,
+          "x": 31,
+          "y": 592,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Box2",
+          "persistentUuid": "43c88896-1771-488b-b6fc-c98a666cedc1",
+          "width": 60,
+          "x": 500,
+          "y": 617,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Box2",
+          "persistentUuid": "347d71e2-0d77-446b-b76a-543b31e71ac0",
+          "width": 60,
+          "x": 500,
+          "y": 560,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Box",
+          "persistentUuid": "ed67427c-a010-4280-ad38-b212ab36a709",
+          "width": 60,
+          "x": 805,
+          "y": 620,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "7df2f1d7-a89e-4d08-b237-8da072e04b85",
+          "width": 58,
+          "x": 410,
+          "y": 274,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "BackGround",
+          "name": "Monster",
+          "persistentUuid": "b3d6f2c2-b958-4ab4-99e7-711b78a35a3d",
+          "width": 50,
+          "x": 302,
+          "y": 620,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "beda425c-e644-42d8-9b4a-506ae2efe116",
+          "width": 63,
+          "x": 1158,
+          "y": 322,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "038c5326-077f-4666-b436-52b941a9e96b",
+          "width": 63,
+          "x": 1219,
+          "y": 321,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "3dd80f51-1c74-41dd-81d1-817913f5e9d9",
+          "width": 63,
+          "x": 1158,
+          "y": 353,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "BackGround",
+          "name": "Block3",
+          "persistentUuid": "218d1f29-304d-480b-a2a5-fc70caffb73f",
+          "width": 63,
+          "x": 1218,
+          "y": 353,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
       "objects": [],
       "events": [],
       "layers": [
@@ -243,6 +3151,22 @@
             }
           ],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "BackGround",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         }
       ],
       "behaviorsSharedData": []
@@ -257,11 +3181,1132 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "a3627da1-c7a4-4092-bb47-e30ab5b17bea",
+          "width": 63,
+          "x": 1217,
+          "y": 164,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "e227b2e7-4c2c-4669-8f59-fc1820537997",
+          "width": 63,
+          "x": 1159,
+          "y": 164,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "1324a2c4-f8dc-4af7-9a66-47eb63490266",
+          "width": 63,
+          "x": 1100,
+          "y": 164,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "90e6f5af-62a8-427a-b244-df5235cdff74",
+          "width": 147,
+          "x": -343,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "5af63668-9be3-4440-a22e-51b8f134fe19",
+          "width": 147,
+          "x": -224,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "f07a9dbb-e889-4d5c-8909-8d10b2b7b9a2",
+          "width": 147,
+          "x": -99,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "b1132fe0-d958-4627-91b0-f9afe2f3294b",
+          "width": 147,
+          "x": 25,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "0cfec301-fdc5-4c5e-a4e4-ab95fdcbfdb9",
+          "width": 147,
+          "x": 153,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "3299556f-5e80-4efb-aa33-0dea503d1124",
+          "width": 147,
+          "x": 278,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "2bdd0560-4b22-4f1b-aa53-26844ddb9afe",
+          "width": 147,
+          "x": 400,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "7b71a59a-ffea-4556-963c-7813ef9f15da",
+          "width": 147,
+          "x": 522,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "266df9c6-db44-40f9-8226-c1c9929f2e8b",
+          "width": 147,
+          "x": 649,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "235bb218-826d-4526-a3f4-d315efcfd548",
+          "width": 147,
+          "x": 893,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "8a5417b9-d0cb-4b31-8c2f-b670f10a13e4",
+          "width": 45,
+          "x": 786,
+          "y": 758,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "8c8704f3-7a29-40d8-83ee-58656fe79952",
+          "width": 45,
+          "x": 831,
+          "y": 757,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 23,
+          "layer": "BackGround",
+          "name": "Trap",
+          "persistentUuid": "2d09819e-a051-42c1-b035-6c25b0092dc3",
+          "width": 28,
+          "x": 874,
+          "y": 758,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "1b80fa69-572e-4c11-99d6-6190ca50bc70",
+          "width": 63,
+          "x": 716,
+          "y": 282,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "0b92527c-1742-467e-b3b9-21a278d16827",
+          "width": 63,
+          "x": 890,
+          "y": 282,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "fe5a83d6-81c3-4fc1-8895-ed9ebe0368df",
+          "width": 63,
+          "x": 832,
+          "y": 282,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "2aa9a22a-da5d-42ec-9128-00dc094cad94",
+          "width": 63,
+          "x": 410,
+          "y": 186,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "d8f801ad-781a-4953-a917-729e2a73fb4d",
+          "width": 63,
+          "x": 584,
+          "y": 194,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "00c90ffe-5d70-45cc-837b-69a0d262ef6f",
+          "width": 63,
+          "x": 526,
+          "y": 194,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "59b2f14b-4bcb-4b17-baf9-e93d4ff53af5",
+          "width": 63,
+          "x": 274,
+          "y": 135,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "bf04b71b-c2e8-4d3a-986f-a9cba0c79b05",
+          "width": 63,
+          "x": 216,
+          "y": 135,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "33ecbf0c-812e-485f-abc8-364a3a0b1436",
+          "width": 63,
+          "x": 157,
+          "y": 135,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "26674cf5-4ba9-4ebc-ae5e-87f87d3fc911",
+          "width": 63,
+          "x": 1045,
+          "y": 414,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "0a8696b7-6b7c-4911-804f-d0eac40ec66c",
+          "width": 63,
+          "x": 1219,
+          "y": 414,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "e0be14e6-996c-4fc7-ab4a-c2e9a9c7c947",
+          "width": 63,
+          "x": 1161,
+          "y": 414,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "9ed61297-7a80-4e0a-aacc-df97374593ce",
+          "width": 63,
+          "x": 1102,
+          "y": 414,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 87,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "1395d3ac-55d2-495c-b0b9-da4ef31ec710",
+          "width": 55,
+          "x": 1226,
+          "y": 81,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 87,
+          "layer": "",
+          "name": "Door",
+          "persistentUuid": "82baca89-9298-4148-81db-0023ccecf14e",
+          "width": 55,
+          "x": 1226,
+          "y": 330,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "name": "Key",
+          "persistentUuid": "46025752-4655-41d3-bfe9-6acd793d9f37",
+          "width": 32,
+          "x": 97,
+          "y": 58,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "ccf8e79e-bb96-43f4-b1b3-136965fbc369",
+          "width": 147,
+          "x": -12,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "cb6b4f27-4735-44b0-a9fb-eb0d361cdc19",
+          "width": 147,
+          "x": 116,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "e3b1fba7-8136-4bd3-8fec-de076aac4e0d",
+          "width": 147,
+          "x": 239,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "fe7b392c-d676-4570-b50c-f1db12283faf",
+          "width": 147,
+          "x": 358,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "3c0b2871-8f0d-4e9a-837b-d64e4bb08eff",
+          "width": 147,
+          "x": 477,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "feac2259-98b2-4342-ac48-18ba314f69b7",
+          "width": 147,
+          "x": 597,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "7014cba5-5719-43b5-b53a-501ce75b8036",
+          "width": 147,
+          "x": 718,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "49efd81c-ac56-4130-9d24-b312abe7610e",
+          "width": 147,
+          "x": 843,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "9834921f-63b5-419f-aa87-847f9e9f0202",
+          "width": 147,
+          "x": 963,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "415e4634-5a70-460e-a6ae-36640531dad7",
+          "width": 147,
+          "x": 1091,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "772c4ee3-4d06-474e-aedf-5cd7950c6a5f",
+          "width": 147,
+          "x": 1214,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 56,
+          "layer": "",
+          "name": "Pillar1",
+          "persistentUuid": "fd587786-98e3-43e2-a6b1-6f74bc61c494",
+          "width": 77,
+          "x": 20,
+          "y": 188,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "",
+          "name": "Pillar3",
+          "persistentUuid": "2ec4a3c3-a018-4ca5-a890-2b3a47bd9548",
+          "width": 43,
+          "x": 36,
+          "y": 239,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "",
+          "name": "Pillar3",
+          "persistentUuid": "52fc2a6f-566b-455f-8802-a835fcc4502d",
+          "width": 43,
+          "x": 36,
+          "y": 371,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "",
+          "name": "Pillar3",
+          "persistentUuid": "786f6912-2660-4387-95a6-66e408de2cca",
+          "width": 43,
+          "x": 36,
+          "y": 436,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "",
+          "name": "Pillar3",
+          "persistentUuid": "b3ee5493-6b06-41ef-b458-ac09bee2d5ec",
+          "width": 43,
+          "x": 36,
+          "y": 497,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "",
+          "name": "Pillar3",
+          "persistentUuid": "8c357db9-41a2-4b68-941f-58ab9f861833",
+          "width": 43,
+          "x": 36,
+          "y": 564,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 75,
+          "layer": "",
+          "name": "Pillar3",
+          "persistentUuid": "8826383f-a422-4085-ac9a-77b08ef2ffbd",
+          "width": 43,
+          "x": 36,
+          "y": 300,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 69,
+          "layer": "",
+          "name": "Pillar3",
+          "persistentUuid": "8cb86a82-3434-4540-b0f9-f3d89a6f90cd",
+          "width": 43,
+          "x": 36,
+          "y": 620,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "2f693225-656e-470b-a8f0-941c0e7c57f5",
+          "width": 50,
+          "x": 120,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "e5282cb2-f370-4878-a949-3cd89290c817",
+          "width": 50,
+          "x": 221,
+          "y": 628,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "a8cc3722-fe2f-4864-a048-98d745c453f3",
+          "width": 50,
+          "x": 330,
+          "y": 629,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "54a07a9c-20a3-474c-b284-6b2218b0617f",
+          "width": 50,
+          "x": 442,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "bec55b99-6435-4ac3-ba72-7e72242290bb",
+          "width": 50,
+          "x": 533,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "0e6e8d74-3e7d-47cd-8a62-194110243059",
+          "width": 50,
+          "x": 622,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "39febc46-f714-4854-868b-c5dd2fa4cabc",
+          "width": 50,
+          "x": 701,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "f3ca64c8-65c9-4cf4-876b-f8d7860b57d6",
+          "width": 50,
+          "x": 796,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "62f792de-5ee2-46d1-b850-71a9db1bc248",
+          "width": 50,
+          "x": 895,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "f290d86f-4619-4d04-a193-21ba945f2152",
+          "width": 50,
+          "x": 983,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "80673a64-911c-4d7f-abc1-18aae95d7a54",
+          "width": 50,
+          "x": 1070,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Monster",
+          "persistentUuid": "da948a2d-d2db-4d57-9124-13e7362a65c3",
+          "width": 50,
+          "x": 1227,
+          "y": 630,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Adventure",
+          "persistentUuid": "292d553c-57ac-4045-b60b-521c451bae2c",
+          "width": 65,
+          "x": 1199,
+          "y": 110,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "name": "Archaeologist",
+          "persistentUuid": "f99515d1-0dd8-4144-b59a-af9c81d3da51",
+          "width": 50,
+          "x": 1149,
+          "y": 110,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Stair1",
+          "persistentUuid": "ba603c18-c5dd-49e8-a49e-ce2983eadc91",
+          "width": 63,
+          "x": 1161,
+          "y": 414,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Stair1",
+          "persistentUuid": "84df03ce-f9cb-4054-a8d7-1061d9296d30",
+          "width": 63,
+          "x": 1161,
+          "y": 469,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Stair1",
+          "persistentUuid": "0ea79df9-58e3-467b-9cb9-8343f3aaada7",
+          "width": 63,
+          "x": 1161,
+          "y": 527,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Stair1",
+          "persistentUuid": "ff9094bd-ee96-48e5-a4b2-f37a1317d901",
+          "width": 63,
+          "x": 1161,
+          "y": 577,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Stair1",
+          "persistentUuid": "aff346ab-4855-4b10-90e5-719b2bd86620",
+          "width": 63,
+          "x": 1161,
+          "y": 637,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "852b573b-7945-404f-9725-69efda99076a",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "Pillar3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview28",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "events": [],
       "layers": [
         {
@@ -304,7 +4349,19 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
       "instances": [],
@@ -351,7 +4408,19 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
       "instances": [],
