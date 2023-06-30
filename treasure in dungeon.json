@@ -8,6 +8,8 @@
   },
   "properties": {
     "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
     "folderProject": false,
     "orientation": "landscape",
     "packageName": "com.example.gamename",
@@ -64,7 +66,6 @@
     "resources": [
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
         "file": "Assets/Level3Map/Cartoon-Dungeon-Platform-2D-Tileset9.jpg",
         "kind": "image",
         "metadata": "",
@@ -398,8 +399,6 @@
       },
       {
         "alwaysLoaded": false,
-=======
->>>>>>> 0b72687828408ede53d1ca34832e9a09a9228c9a
         "file": "Assets/Level2Map/Dungeon-Platformer-Game-Tileset5.jpg",
         "kind": "image",
         "metadata": "",
@@ -409,12 +408,6 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "Assets/Assets_Assets_UI_UISheet-removebg-preview5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Assets\\Assets_Assets_UI_UISheet-removebg-preview5.png",
-=======
         "file": "Assets/Level2Map/Dungeon-Platformer-Game-Tileset4-removebg-preview.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"Assets/Level2Map/Dungeon-Platformer-Game-Tileset4-removebg-preview.png\",\"extension\":\".png\"}",
@@ -734,7 +727,15 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview28",
->>>>>>> 0b72687828408ede53d1ca34832e9a09a9228c9a
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Assets_Assets_UI_UISheet-removebg-preview5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Assets_Assets_UI_UISheet-removebg-preview5.png",
         "smoothed": false,
         "userAdded": true
       }
