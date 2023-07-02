@@ -12439,29 +12439,22 @@
           "stringProperties": [],
           "initialVariables": []
         },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 60,
-          "layer": "",
-          "name": "MonsterSword",
-          "persistentUuid": "af7d0981-72fd-44c7-af4d-5dc9842b5202",
-          "width": 75,
-          "x": 923,
-          "y": 357,
-          "height": 720,
-          "layer": "Background_0",
-          "name": "Background",
-          "persistentUuid": "3a5ab3b4-12e3-4376-bc3d-2ca7c0d17cf8",
-          "width": 1280,
-          "x": 0,
-          "y": 0,
-          "zOrder": 15,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-<<<<<<< HEAD
+        
+          {
+            "angle": 0,
+            "customSize": true,
+            "depth": 0,
+            "height": 65,
+            "layer": "",
+            "name": "MonsterSwordSheild",
+            "persistentUuid": "74a51d45-7b26-4c01-8472-81aef04eabb0",
+            "width": 90,
+            "x": 320,
+            "y": 618,
+            "zOrder": 16,
+            "numberProperties": [],
+            "stringProperties": [],
+            "initialVariables": []
         },
         {
           "angle": 0,
@@ -12483,8 +12476,6 @@
       "objects": [],
       "events": [
         {
-<<<<<<< HEAD
-=======
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12504,17 +12495,14 @@
           "actions": []
         },
         {
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-<<<<<<< HEAD
           "name": "Client",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [],
-=======
           "folded": true,
           "name": "Enemies",
           "source": "",
@@ -12536,7 +12524,6 @@
               "actions": []
             }
           ],
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
           "parameters": []
         },
         {
@@ -12544,7 +12531,6 @@
           "conditions": [
             {
               "type": {
-<<<<<<< HEAD
                 "value": "THNK::StartClientCode"
               },
               "parameters": [
@@ -12733,17 +12719,10 @@
                     ""
                   ]
                 }
-=======
-                "value": "AnimationName"
-              },
-              "parameters": [
-                "Monster",
-                "\"walking\""
               ]
-            }
-          ],
-          "actions": []
-        },
+            },
+          
+          
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -12764,13 +12743,11 @@
               "parameters": [
                 "Monster",
                 "PlatformerObject"
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
               ]
             }
           ]
         },
         {
-<<<<<<< HEAD
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -12782,13 +12759,10 @@
           "parameters": []
         },
         {
-=======
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-<<<<<<< HEAD
                 "value": "THNK::StartServerCode"
               },
               "parameters": [
@@ -13272,13 +13246,10 @@
                     "Adventure",
                     "PlatformerObject",
                     "\"Jump\""
-=======
-                "inverted": true,
-                "value": "FlippedX"
-              },
-              "parameters": [
-                "Monster"
-              ]
+                ]
+              }
+              
+            ]
             }
           ],
           "actions": [
@@ -13292,9 +13263,6 @@
               ]
             }
           ]
-        }
-      ],
-=======
         }
       ],
       "objects": [
@@ -13333,7 +13301,6 @@
                       },
                       "customCollisionMask": []
                     }
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
                   ]
                 }
               ]
@@ -13341,11 +13308,7 @@
           ]
         }
       ],
-<<<<<<< HEAD
-=======
       "events": [],
->>>>>>> 113c7eeacb2845f0b8377a6bb5f14822c31c4bdb
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -13415,13 +13378,10 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior"
-<<<<<<< HEAD
         },
         {
           "name": "SynchronizedObject",
           "type": "THNK::SynchronizedObject"
-=======
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
         }
       ]
     },
@@ -18795,7 +18755,6 @@
           "effects": []
         }
       ],
-<<<<<<< HEAD
       "behaviorsSharedData": []
     },
     {
@@ -18894,14 +18853,13 @@
         {
           "name": "SynchronizedObject",
           "type": "THNK::SynchronizedObject"
-=======
-      "behaviorsSharedData": [
-        {
+        },
+         {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
->>>>>>> 9b30dd18840c093473c137c65227c4b8ef28bd25
         }
       ]
+      
     }
   ],
   "externalEvents": [],
