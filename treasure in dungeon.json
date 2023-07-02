@@ -738,6 +738,1662 @@
         "name": "Assets\\Assets_Assets_UI_UISheet-removebg-preview5.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walking.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walking",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walking2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walking2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walking3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walking3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walking4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walking4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walking5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walking5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/walking6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "walking6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v24",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v25",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v26",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v27",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v28",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v29",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v30",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v31",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v32",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v33",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet22",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet23",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet24",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet25",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet26",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet27",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet28",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet29",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet30",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet31",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet32",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet33",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet34",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet35",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet36",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Archaeologist Sprite Sheet37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Archaeologist Sprite Sheet37",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_2/skellington_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_2\\skellington_2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_DeathAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_JumpAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_JumpSwordAnimation.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Assets/enemies/Skellington_1/skellington_1_JumpSwordAnimation.png\",\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpAnimation8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_JumpSwordShieldAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_RunningAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningAnimation5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningAnimation6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningAnimation7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordAnimation14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_RunningSwordAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_SwordAttackAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_SwordShieldAttackAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/enemies/Skellington_1/skellington_1_RunningSwordShieldAnimation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordShieldAnimation.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordShieldAttackAnimation8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation10",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -757,7 +2413,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "Adventure",
+      "name": "Archaeologist",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -766,7 +2422,156 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v",
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "walking",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -776,7 +2581,1505 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v",
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rolling",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "throw rope",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet19",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet20",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet21",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet22",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Assets\\Players\\Archaeologist Sprite Sheet",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet23",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet24",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet25",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet26",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet27",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet28",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "shooting",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet29",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet30",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet31",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet32",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet33",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet34",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet35",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet36",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Archaeologist Sprite Sheet37",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Adventure",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "walking2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "walking3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "walking4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "walking5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "walking6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "walking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "skill",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v18",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v19",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v20",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v21",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v22",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v23",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v24",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v25",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v26",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v27",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v28",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v29",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v30",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v31",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v32",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v33",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -805,7 +4108,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
@@ -1267,7 +4578,15 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
@@ -1365,48 +4684,6 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview19",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "Archaeologist",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Assets\\Players\\Archaeologist Sprite Sheet",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1771,10 +5048,410 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "acceleration": 1500,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 1500,
+          "gravity": 1000,
+          "ignoreDefaultControls": false,
+          "jumpSpeed": 600,
+          "jumpSustainTime": 0.2,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 700,
+          "maxSpeed": 250,
+          "name": "PlatformerObject",
+          "slopeMaxAngle": 60,
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
-          "name": "Assets\\enemies\\Skellington_1\\skellington_1",
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "walking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningAnimation7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "die",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -1784,7 +5461,917 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1",
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "MonsterSword",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordAnimation14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "walking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "MonsterSwordSheild",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "walking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation15",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation16",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation17",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die12",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5524,7 +10111,7 @@
           "persistentUuid": "aff99ccf-16d7-464e-96ec-d09ac5d55fb5",
           "width": 50,
           "x": 106,
-          "y": 121,
+          "y": 122,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -5641,21 +10228,6 @@
           "height": 60,
           "layer": "BackGround",
           "name": "Monster",
-          "persistentUuid": "85fdea11-cbd6-463e-b734-e1dd8ca04b6c",
-          "width": 50,
-          "x": 869,
-          "y": 353,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "BackGround",
-          "name": "Monster",
           "persistentUuid": "5bccc3ee-d6ae-4489-81e7-f3012fd9eaed",
           "width": 50,
           "x": 895,
@@ -5758,21 +10330,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 60,
-          "layer": "BackGround",
-          "name": "Monster",
-          "persistentUuid": "b3d6f2c2-b958-4ab4-99e7-711b78a35a3d",
-          "width": 50,
-          "x": 302,
-          "y": 620,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 58,
           "layer": "BackGround",
           "name": "Block3",
@@ -5829,10 +10386,154 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "",
+          "name": "MonsterSword",
+          "persistentUuid": "af7d0981-72fd-44c7-af4d-5dc9842b5202",
+          "width": 75,
+          "x": 923,
+          "y": 357,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 65,
+          "layer": "",
+          "name": "MonsterSwordSheild",
+          "persistentUuid": "74a51d45-7b26-4c01-8472-81aef04eabb0",
+          "width": 90,
+          "x": 320,
+          "y": 618,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [],
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Enemies",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Monster",
+                "\"walking\""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "FlippedX"
+              },
+              "parameters": [
+                "Monster"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateRightKey"
+              },
+              "parameters": [
+                "Monster",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "FlippedX"
+              },
+              "parameters": [
+                "Monster"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateLeftKey"
+              },
+              "parameters": [
+                "Monster",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -5878,7 +10579,16 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
     },
     {
       "b": 209,
@@ -6707,21 +11417,6 @@
           "height": 60,
           "layer": "",
           "name": "Monster",
-          "persistentUuid": "a8cc3722-fe2f-4864-a048-98d745c453f3",
-          "width": 50,
-          "x": 330,
-          "y": 629,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "",
-          "name": "Monster",
           "persistentUuid": "54a07a9c-20a3-474c-b284-6b2218b0617f",
           "width": 50,
           "x": 442,
@@ -6752,99 +11447,9 @@
           "height": 60,
           "layer": "",
           "name": "Monster",
-          "persistentUuid": "0e6e8d74-3e7d-47cd-8a62-194110243059",
-          "width": 50,
-          "x": 622,
-          "y": 630,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "",
-          "name": "Monster",
           "persistentUuid": "39febc46-f714-4854-868b-c5dd2fa4cabc",
           "width": 50,
           "x": 701,
-          "y": 630,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "",
-          "name": "Monster",
-          "persistentUuid": "f3ca64c8-65c9-4cf4-876b-f8d7860b57d6",
-          "width": 50,
-          "x": 796,
-          "y": 630,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "",
-          "name": "Monster",
-          "persistentUuid": "62f792de-5ee2-46d1-b850-71a9db1bc248",
-          "width": 50,
-          "x": 895,
-          "y": 630,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "",
-          "name": "Monster",
-          "persistentUuid": "f290d86f-4619-4d04-a193-21ba945f2152",
-          "width": 50,
-          "x": 983,
-          "y": 630,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "",
-          "name": "Monster",
-          "persistentUuid": "80673a64-911c-4d7f-abc1-18aae95d7a54",
-          "width": 50,
-          "x": 1070,
-          "y": 630,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 60,
-          "layer": "",
-          "name": "Monster",
-          "persistentUuid": "da948a2d-d2db-4d57-9124-13e7362a65c3",
-          "width": 50,
-          "x": 1227,
           "y": 630,
           "zOrder": 12,
           "numberProperties": [],
@@ -6967,6 +11572,86 @@
           "x": 0,
           "y": 0,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "",
+          "name": "MonsterSword",
+          "persistentUuid": "13ed8a9a-11e3-4b12-8795-31b5d99ad491",
+          "width": 75,
+          "x": 325,
+          "y": 630,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "",
+          "name": "MonsterSword",
+          "persistentUuid": "a2a8df09-0f81-484b-9f79-370b7e71d832",
+          "width": 75,
+          "x": 614,
+          "y": 630,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 65,
+          "layer": "",
+          "name": "MonsterSwordSheild",
+          "persistentUuid": "6e9ad895-237f-4036-8722-d22e64974000",
+          "width": 90,
+          "x": 793,
+          "y": 626,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 65,
+          "layer": "",
+          "name": "MonsterSwordSheild",
+          "persistentUuid": "66d2697c-0d7b-47f6-b6cb-009790d7a199",
+          "width": 90,
+          "x": 886,
+          "y": 626,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 65,
+          "layer": "",
+          "name": "MonsterSwordSheild",
+          "persistentUuid": "d9cb7ddc-f233-4a67-b8c8-f356d1e97766",
+          "width": 90,
+          "x": 988,
+          "y": 626,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
