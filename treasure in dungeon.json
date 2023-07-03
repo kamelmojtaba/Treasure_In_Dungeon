@@ -2111,7 +2111,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation",
         "smoothed": false,
         "userAdded": true
@@ -2120,7 +2120,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation2.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation2",
         "smoothed": false,
         "userAdded": false
@@ -2129,7 +2129,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation3.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation3",
         "smoothed": false,
         "userAdded": false
@@ -2138,7 +2138,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation4.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation4",
         "smoothed": false,
         "userAdded": false
@@ -2435,7 +2435,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation",
         "smoothed": false,
         "userAdded": true
@@ -2444,7 +2444,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation2.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation2",
         "smoothed": false,
         "userAdded": true
@@ -2453,7 +2453,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation3.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation3",
         "smoothed": false,
         "userAdded": true
@@ -2462,7 +2462,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation4.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation4",
         "smoothed": false,
         "userAdded": true
@@ -2471,7 +2471,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_enemies_Skellington_1_skellington_1_DeathAnimation5.png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation5",
         "smoothed": false,
         "userAdded": true
@@ -2597,7 +2597,7 @@
         "alwaysLoaded": false,
         "file": "Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview29.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview29.png\",\"extension\":\".png\"}",
         "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview29.png",
         "smoothed": false,
         "userAdded": true
@@ -2606,7 +2606,7 @@
         "alwaysLoaded": false,
         "file": "Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview30.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview30.png\",\"extension\":\".png\"}",
         "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview30.png",
         "smoothed": false,
         "userAdded": true
@@ -3002,7 +3002,7 @@
         "alwaysLoaded": false,
         "file": "assets/Open7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Open7.png\"}",
         "name": "Open6",
         "smoothed": false,
         "userAdded": true
@@ -3011,7 +3011,7 @@
         "alwaysLoaded": false,
         "file": "assets/Open7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Open7.png\"}",
         "name": "Open7",
         "smoothed": false,
         "userAdded": true
@@ -3020,7 +3020,7 @@
         "alwaysLoaded": false,
         "file": "assets/Open8.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Open8.png\"}",
         "name": "Open8",
         "smoothed": false,
         "userAdded": true
@@ -3029,7 +3029,7 @@
         "alwaysLoaded": false,
         "file": "assets/Open9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Open9.png\"}",
         "name": "Open9",
         "smoothed": false,
         "userAdded": true
@@ -3180,7 +3180,718 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/LifeBar.png",
+        "file": "assets/throw rope.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "throw rope",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/throw rope2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "throw rope2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/throw rope3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "throw rope3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/throw rope4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "throw rope4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/throw rope5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "throw rope5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/throw rope6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "throw rope6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/retract rope16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "retract rope16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v46",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v47",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v48",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v49",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v50",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v51",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v52",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/skill8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "skill8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Assets_Players_Dwarf Sprite Sheet 1.3v28.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Assets_Players_Dwarf Sprite Sheet 1.3v28.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Assets_Players_Dwarf Sprite Sheet 1.3v29.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Assets_Players_Dwarf Sprite Sheet 1.3v29.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Down.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Down",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Down2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Down2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Down3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Down3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/attack16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attack16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/die15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "die15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jump.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jump2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jump3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jump4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jump5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jump6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/jump7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "jump7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/LifeBar2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "LifeBar",
@@ -3189,7 +3900,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite.png",
+        "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite",
@@ -3198,19 +3909,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite2.png",
+        "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite2",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview.png2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
-        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview.png2",
         "smoothed": false,
         "userAdded": true
       }
@@ -3297,9 +3999,9 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.2,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
@@ -3446,7 +4148,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -3595,7 +4297,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -3727,13 +4429,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet25",
+                  "image": "throw rope",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3750,7 +4452,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet26",
+                  "image": "throw rope2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3767,7 +4469,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet27",
+                  "image": "throw rope3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3784,7 +4486,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet28",
+                  "image": "throw rope4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3801,7 +4503,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet29",
+                  "image": "throw rope5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3818,7 +4520,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet30",
+                  "image": "throw rope6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3842,13 +4544,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet31",
+                  "image": "retract rope9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3865,7 +4567,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet32",
+                  "image": "retract rope10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3882,7 +4584,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet33",
+                  "image": "retract rope11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3899,7 +4601,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet34",
+                  "image": "retract rope12",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3916,7 +4618,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet35",
+                  "image": "retract rope13",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3933,7 +4635,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet36",
+                  "image": "retract rope14",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3950,7 +4652,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet37",
+                  "image": "retract rope15",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3967,7 +4669,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet38",
+                  "image": "retract rope16",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3991,13 +4693,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet39",
+                  "image": "shooting",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4014,7 +4716,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet40",
+                  "image": "shooting2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4031,7 +4733,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet41",
+                  "image": "shooting3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4048,7 +4750,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet42",
+                  "image": "shooting4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4074,7 +4776,7 @@
             {
               "looping": false,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.1,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
@@ -4248,7 +4950,7 @@
             {
               "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.2,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
@@ -4344,7 +5046,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -4489,17 +5191,17 @@
           ]
         },
         {
-          "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v",
+          "name": "chop",
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v15",
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v46",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4516,7 +5218,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v16",
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v47",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4533,7 +5235,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v17",
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v48",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4550,7 +5252,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v18",
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v49",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4567,7 +5269,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v19",
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v50",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4584,7 +5286,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v20",
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v51",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4601,7 +5303,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v21",
+                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v52",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4625,13 +5327,127 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "skill",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "skill2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "skill3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "skill4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "skill5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "skill6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kurukuru",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v22",
+                  "image": "Assets\\Assets_Players_Dwarf Sprite Sheet 1.3v28.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4648,109 +5464,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v23",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v24",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v25",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v26",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v27",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v28",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v29",
+                  "image": "Assets\\Assets_Players_Dwarf Sprite Sheet 1.3v29.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4774,7 +5488,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -4872,7 +5586,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -5278,13 +5992,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation",
+                  "image": "attack9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5301,7 +6015,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation2",
+                  "image": "attack10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5318,7 +6032,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation3",
+                  "image": "attack11",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5335,7 +6049,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation4",
+                  "image": "attack12",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5352,7 +6066,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation5",
+                  "image": "attack13",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5369,7 +6083,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation6",
+                  "image": "attack14",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5386,7 +6100,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation7",
+                  "image": "attack15",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5403,7 +6117,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpAnimation8",
+                  "image": "attack16",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5433,7 +6147,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_2",
+                  "image": "die6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5450,7 +6164,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_3",
+                  "image": "die7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5467,7 +6181,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_4",
+                  "image": "die8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5484,7 +6198,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_5",
+                  "image": "die9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5501,7 +6215,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_6",
+                  "image": "die10",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5718,7 +6432,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -5850,9 +6564,9 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.2,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
@@ -6218,236 +6932,6 @@
           ]
         },
         {
-          "name": "jump",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation2",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation3",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation4",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation5",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation6",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation7",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "die",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation9",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation10",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation11",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation12",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation13",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "attack",
           "useMultipleDirections": false,
           "directions": [
@@ -6510,6 +6994,236 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Assets\\enemies\\Skellington_1\\skellington_1_SwordShieldAttackAnimation4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "jump",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "jump2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "jump3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "jump4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "jump5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "jump6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "jump7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "die",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die14",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "die15",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6997,7 +7711,8 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.5,
               "sprites": [
                 {
@@ -7139,7 +7854,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview38.png",
+                  "image": "Down",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7156,7 +7871,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview39.png",
+                  "image": "Down2",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -7173,7 +7888,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview40.png",
+                  "image": "Down3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -16584,7 +17299,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 60,
         "gridHeight": 60,
@@ -16592,7 +17307,7 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
+        "snap": false,
         "zoomFactor": 0.6244537826600003,
         "windowMask": false
       },
@@ -19273,8 +19988,8 @@
           "name": "MonsterSwordSheild",
           "persistentUuid": "151cf619-b998-4531-8a36-b342c3abd57b",
           "width": 100,
-          "x": 960,
-          "y": 610,
+          "x": 852,
+          "y": 616,
           "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
@@ -21375,7 +22090,7 @@
           "isLocked": false,
           "name": "Object",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
