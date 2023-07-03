@@ -885,12 +885,6 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "Assets/Level1Map/tiles_sheet.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Assets\\Level1Map\\tiles_sheet.png",
-=======
         "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1705,66 +1699,38 @@
         "kind": "image",
         "metadata": "",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation.png",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_2",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet2",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_3",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet3",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_4",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet4",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2075,66 +2041,38 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet5",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation2",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet6",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation3",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Level1Map_tiles_sheet7.png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet7",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordAnimation4",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet8",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_RunningSwordAnimation5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2184,243 +2122,11 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_SwordAttackAnimation2",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet9",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level1Map_tiles_sheet10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet10",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level1Map_tiles_sheet11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet11",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level1Map_tiles_sheet12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet12",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level1Map_tiles_sheet13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet13",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level1Map_tiles_sheet14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet14",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level1Map_tiles_sheet15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet15",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview29.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview29",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview30.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview30",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview31",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png\",\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png\",\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview31.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview32.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview32",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview32.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview32.png\",\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview32.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview32.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview32",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview33.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview33",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview34.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview34",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview33.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview33",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview35.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview35",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview36.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview36",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview37.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview37",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview38.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview38.png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview38",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview39.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview39.png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview39",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview40.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview40.png\"}",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview40",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview29.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview29.png",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_SwordAttackAnimation3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2443,50 +2149,29 @@
         "kind": "image",
         "metadata": "",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation.png",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet16",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_Level1Map_tiles_sheet17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\Level1Map\\tiles_sheet17",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_JumpSwordShieldAnimation2",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "Assets/door_level1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Assets\\door_level1.png",
-=======
         "file": "assets/Assets_enemies_Skellington_1_skellington_1_JumpSwordShieldAnimation3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2635,132 +2320,74 @@
         "kind": "image",
         "metadata": "",
         "name": "Assets\\enemies\\Skellington_1\\skellington_1_RunningSwordShieldAnimation.png",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Assets_door_level1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Assets\\door_level1",
-=======
         "file": "assets/walking.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "walking",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Open.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Open",
-=======
         "file": "assets/walking2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "walking2",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Open2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Open2",
-=======
         "file": "assets/walking3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "walking3",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Open3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Open3",
-=======
         "file": "assets/walking4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "walking4",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Open4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Open4",
-=======
         "file": "assets/walking5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "walking5",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Open5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Open5",
-=======
         "file": "assets/walking6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "walking6",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "assets/Open6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Open6",
-=======
         "file": "assets/walking7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "walking7",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
         "smoothed": false,
         "userAdded": true
       },
       {
         "alwaysLoaded": false,
-<<<<<<< HEAD
-        "file": "Assets/Assets_door_level1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Assets\\Assets_door_level1.png",
-        "smoothed": false,
-        "userAdded": true
-=======
         "file": "Assets/enemies/Skellington_1/skellington_1_SwordShieldAttackAnimation.png",
         "kind": "image",
         "metadata": "",
@@ -2857,54 +2484,11 @@
         "name": "Assets\\Door\\DoorLevel3and4.jpg",
         "smoothed": false,
         "userAdded": false
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
       }
     ],
     "resourceFolders": []
   },
   "objects": [
-    {
-      "assetStoreId": "",
-      "name": "Archaeologist",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Assets\\Players\\Archaeologist Sprite Sheet",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Players\\Archaeologist Sprite Sheet",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "assetStoreId": "",
       "name": "Adventure",
@@ -3758,91 +3342,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "Health",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level1Map\\tiles_sheet15",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "Monster",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Assets\\enemies\\Skellington_1\\skellington_1",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\enemies\\Skellington_1\\skellington_1",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "Trap",
+      "name": "Block1",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3861,7 +3361,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview26",
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview4",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3884,7 +3384,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "Key",
+      "name": "Block2",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -3903,7 +3403,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview24",
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3926,138 +3426,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "Key2",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level1Map\\tiles_sheet12",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "Treasure",
-      "tags": "",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Close",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview29",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Open",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.5,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview29.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview30",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "Box",
+      "name": "Block3",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4076,7 +3445,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview23",
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4099,7 +3468,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "Box2",
+      "name": "Block4",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4118,7 +3487,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview25",
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview9",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4141,7 +3510,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "Stair1",
+      "name": "Block5",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4160,9 +3529,174 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-<<<<<<< HEAD
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview22",
-=======
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder1",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder3",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Ladder4",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
                   "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview14",
                   "points": [],
                   "originPoint": {
@@ -5259,7 +4793,6 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Assets\\Players\\Archaeologist Sprite Sheet47",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5366,7 +4899,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "Button",
+      "name": "Stair1",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -5375,7 +4908,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "Up",
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -5385,71 +4918,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview33",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Down",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview38",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview39",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview40",
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview22",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5472,7 +4941,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "ArrowToLeft",
+      "name": "Box",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -5481,7 +4950,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -5491,7 +4960,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Assets\\Level1Map\\tiles_sheet14",
+                  "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview23",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5514,7 +4983,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "ArrowToRight",
+      "name": "Key",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -5523,7 +4992,7 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "",
+          "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -5533,9 +5002,6 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-<<<<<<< HEAD
-                  "image": "Assets\\Level1Map\\tiles_sheet13",
-=======
                   "image": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview24",
                   "points": [],
                   "originPoint": {
@@ -6922,7 +6388,6 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Assets\\enemies\\Skellington_1\\skellington_1_DeathAnimation5",
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -11138,676 +10603,11 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {
-        "grid": false,
-        "gridType": "rectangular",
-        "gridWidth": 32,
-        "gridHeight": 32,
-        "gridOffsetX": 0,
-        "gridOffsetY": 0,
-        "gridColor": 10401023,
-        "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.546875,
-        "windowMask": false
-      },
+      "uiSettings": {},
       "objectsGroups": [],
       "variables": [],
-      "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 720,
-          "layer": "",
-          "name": "Background",
-          "persistentUuid": "96db3ef0-41a8-4d63-8fe0-40d486b0492e",
-          "width": 1280,
-          "x": 0,
-          "y": 0,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        }
-      ],
-      "objects": [
-        {
-          "assetStoreId": "",
-          "name": "Background",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\Temple-Platformer-Game-2D-Tilesebg.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land1",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land2",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet4",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land3",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet16",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land4",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet17",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land1_Back",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Assets\\Level1Map\\tiles_sheet",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet5",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land2_Back",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Assets\\Level1Map\\tiles_sheet",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet6",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land3_Back",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet7",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land4_Back",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land5_Back",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet10",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Land6_Back",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Level1Map\\tiles_sheet11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Door",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Close",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\door_level1",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Open",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\Assets_door_level1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open3",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open4",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open5",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Open6",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
+      "instances": [],
+      "objects": [],
       "events": [],
       "layers": [
         {
@@ -11836,22 +10636,6 @@
             }
           ],
           "effects": []
-        },
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 0.1,
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "Layer",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [],
-          "effects": []
         }
       ],
       "behaviorsSharedData": []
@@ -11876,14 +10660,11 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6244537826600003,
+        "zoomFactor": 0.5468750000000014,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
-<<<<<<< HEAD
-      "instances": [],
-=======
       "instances": [
         {
           "angle": 0,
@@ -13329,7 +12110,6 @@
           "initialVariables": []
         }
       ],
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
       "objects": [
         {
           "assetStoreId": "",
@@ -13371,21 +12151,26 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "NewSprite",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
         }
       ],
       "events": [],
       "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Background_0",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
         {
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
@@ -13461,6 +12246,201 @@
         {
           "angle": 0,
           "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "a3627da1-c7a4-4092-bb47-e30ab5b17bea",
+          "width": 63,
+          "x": 1217,
+          "y": 164,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "e227b2e7-4c2c-4669-8f59-fc1820537997",
+          "width": 63,
+          "x": 1159,
+          "y": 164,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 58,
+          "layer": "",
+          "name": "Block1",
+          "persistentUuid": "1324a2c4-f8dc-4af7-9a66-47eb63490266",
+          "width": 63,
+          "x": 1100,
+          "y": 164,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "90e6f5af-62a8-427a-b244-df5235cdff74",
+          "width": 147,
+          "x": -343,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "5af63668-9be3-4440-a22e-51b8f134fe19",
+          "width": 147,
+          "x": -224,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "f07a9dbb-e889-4d5c-8909-8d10b2b7b9a2",
+          "width": 147,
+          "x": -99,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "b1132fe0-d958-4627-91b0-f9afe2f3294b",
+          "width": 147,
+          "x": 25,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "0cfec301-fdc5-4c5e-a4e4-ab95fdcbfdb9",
+          "width": 147,
+          "x": 153,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "3299556f-5e80-4efb-aa33-0dea503d1124",
+          "width": 147,
+          "x": 278,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "2bdd0560-4b22-4f1b-aa53-26844ddb9afe",
+          "width": 147,
+          "x": 400,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "7b71a59a-ffea-4556-963c-7813ef9f15da",
+          "width": 147,
+          "x": 522,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "266df9c6-db44-40f9-8226-c1c9929f2e8b",
+          "width": 147,
+          "x": 649,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "BackGround",
+          "name": "Rood",
+          "persistentUuid": "235bb218-826d-4526-a3f4-d315efcfd548",
+          "width": 147,
+          "x": 893,
+          "y": 750,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
           "height": 23,
           "layer": "BackGround",
           "name": "Trap",
@@ -13506,8 +12486,6 @@
         {
           "angle": 0,
           "customSize": true,
-<<<<<<< HEAD
-=======
           "height": 58,
           "layer": "",
           "name": "Block1",
@@ -13703,7 +12681,6 @@
         {
           "angle": 0,
           "customSize": true,
->>>>>>> c6383b34daa32a55e40d1cd957513c1460820a7b
           "height": 50,
           "layer": "",
           "name": "Key",
@@ -13712,6 +12689,171 @@
           "x": 97,
           "y": 58,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "ccf8e79e-bb96-43f4-b1b3-136965fbc369",
+          "width": 147,
+          "x": -12,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "cb6b4f27-4735-44b0-a9fb-eb0d361cdc19",
+          "width": 147,
+          "x": 116,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "e3b1fba7-8136-4bd3-8fec-de076aac4e0d",
+          "width": 147,
+          "x": 239,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "fe7b392c-d676-4570-b50c-f1db12283faf",
+          "width": 147,
+          "x": 358,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "3c0b2871-8f0d-4e9a-837b-d64e4bb08eff",
+          "width": 147,
+          "x": 477,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "feac2259-98b2-4342-ac48-18ba314f69b7",
+          "width": 147,
+          "x": 597,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "7014cba5-5719-43b5-b53a-501ce75b8036",
+          "width": 147,
+          "x": 718,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "49efd81c-ac56-4130-9d24-b312abe7610e",
+          "width": 147,
+          "x": 843,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "9834921f-63b5-419f-aa87-847f9e9f0202",
+          "width": 147,
+          "x": 963,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "415e4634-5a70-460e-a6ae-36640531dad7",
+          "width": 147,
+          "x": 1091,
+          "y": 685,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 55,
+          "layer": "",
+          "name": "Rood",
+          "persistentUuid": "772c4ee3-4d06-474e-aedf-5cd7950c6a5f",
+          "width": 147,
+          "x": 1214,
+          "y": 685,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
