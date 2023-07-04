@@ -4518,6 +4518,42 @@
         "name": "NewSprite3",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/shooting8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "shooting8",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5326,13 +5362,13 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting",
+                  "image": "shooting5",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5349,7 +5385,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting2",
+                  "image": "shooting6",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5366,7 +5402,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting3",
+                  "image": "shooting7",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5383,7 +5419,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting4",
+                  "image": "shooting8",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -24002,6 +24038,30 @@
           "conditions": [
             {
               "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "finish",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "KeyReleased"
               },
               "parameters": [
@@ -24060,6 +24120,15 @@
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "inverted": true,
@@ -24165,11 +24234,30 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetAnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
                         "\"shooting\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeAnimationSpeedScale"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "=",
+                        "2"
                       ]
                     }
                   ],
@@ -24233,6 +24321,57 @@
                             ""
                           ]
                         }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"shooting\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"idle\""
                       ]
                     }
                   ]
