@@ -4521,37 +4521,64 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/shooting5.png",
+        "file": "assets/Down4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "shooting5",
+        "name": "Down4",
         "smoothed": false,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/shooting6.png",
+        "file": "assets/Down5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "shooting6",
+        "name": "Down5",
         "smoothed": false,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/shooting7.png",
+        "file": "assets/Down6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "shooting7",
+        "name": "Down6",
         "smoothed": false,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/shooting8.png",
+        "file": "Assets/shooting5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "shooting8",
+        "metadata": "{\"localFilePath\":\"Assets/shooting5.png\",\"extension\":\".png\"}",
+        "name": "Assets\\shooting5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/shooting6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Assets/shooting6.png\",\"extension\":\".png\"}",
+        "name": "Assets\\shooting6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/shooting7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Assets/shooting7.png\",\"extension\":\".png\"}",
+        "name": "Assets\\shooting7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/shooting8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Assets/shooting8.png\",\"extension\":\".png\"}",
+        "name": "Assets\\shooting8.png",
         "smoothed": false,
         "userAdded": false
       }
@@ -4565,7 +4592,20 @@
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "selverKey",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "GoldKey",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "effects": [],
       "behaviors": [
         {
@@ -5368,7 +5408,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting5",
+                  "image": "Assets\\shooting5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5385,7 +5425,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting6",
+                  "image": "Assets\\shooting6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5402,7 +5442,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting7",
+                  "image": "Assets\\shooting7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5419,7 +5459,7 @@
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "shooting8",
+                  "image": "Assets\\shooting8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -9189,7 +9229,7 @@
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior",
-          "platformType": "Jumpthru",
+          "platformType": "NormalPlatform",
           "canBeGrabbed": true,
           "yGrabOffset": 0
         }
@@ -9206,17 +9246,23 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Assets\\Assets_Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview38.png",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "top",
+                      "x": 16,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "customCollisionMask": []
                 }
@@ -9229,58 +9275,76 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Down",
-                  "points": [],
+                  "image": "Down4",
+                  "points": [
+                    {
+                      "name": "top",
+                      "x": 16,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Down2",
-                  "points": [],
+                  "image": "Down5",
+                  "points": [
+                    {
+                      "name": "top",
+                      "x": 16,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "customCollisionMask": []
                 },
                 {
                   "hasCustomCollisionMask": false,
-                  "image": "Down3",
-                  "points": [],
+                  "image": "Down6",
+                  "points": [
+                    {
+                      "name": "top",
+                      "x": 16,
+                      "y": 0
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 16.5,
+                    "y": 7.5
                   },
                   "customCollisionMask": []
                 }
@@ -14420,7 +14484,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 30,
+          "height": 60,
           "layer": "Land",
           "name": "Button_Wall",
           "persistentUuid": "53d03534-897e-4845-9560-43a35dfb7bcb",
@@ -14437,29 +14501,13 @@
           "customSize": true,
           "depth": 0,
           "height": 40,
-          "layer": "Object",
+          "layer": "Player",
           "name": "Button",
           "persistentUuid": "d37ed367-5a48-4c71-a2c2-3795236f95c3",
           "width": 60,
-          "x": 720,
-          "y": 260,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 40,
-          "layer": "Object",
-          "name": "Button",
-          "persistentUuid": "9a09f6ce-c385-461f-9965-3e0fcd541bf5",
-          "width": 60,
-          "x": 840,
-          "y": 440,
-          "zOrder": 4,
+          "x": 750,
+          "y": 280,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17727,6 +17775,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Player",
+          "name": "Bullet",
+          "persistentUuid": "65ffdc67-bc77-4640-beb1-24b1f3dee79e",
+          "width": 120,
+          "x": 780,
+          "y": -120,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -18258,7 +18322,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
@@ -18561,6 +18625,30 @@
           "conditions": [
             {
               "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "finish",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "KeyReleased"
               },
               "parameters": [
@@ -18619,6 +18707,15 @@
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "inverted": true,
@@ -18724,11 +18821,40 @@
                   "actions": [
                     {
                       "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetAnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
                         "\"shooting\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeAnimationSpeedScale"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "=",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "Bullet",
+                        "=",
+                        "35"
                       ]
                     }
                   ],
@@ -18792,6 +18918,57 @@
                             ""
                           ]
                         }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"shooting\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"idle\""
                       ]
                     }
                   ]
@@ -19009,6 +19186,252 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Button for the wall"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Button",
+                "Button.PointY(\"top\")",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Button",
+                "\"Down\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Button_Wall",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Treasure Box"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key_2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "selverKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key_2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Treasure",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "selverKey",
+                    "True"
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Treasure",
+                "\"Open\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "final Door"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "GoldKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Door",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "GoldKey",
+                    "True"
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Door",
+                "\"Open\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -19897,7 +20320,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 30,
+          "height": 60,
           "layer": "Land",
           "name": "Button_Wall",
           "persistentUuid": "53d03534-897e-4845-9560-43a35dfb7bcb",
@@ -19914,29 +20337,13 @@
           "customSize": true,
           "depth": 0,
           "height": 40,
-          "layer": "Object",
+          "layer": "Player",
           "name": "Button",
           "persistentUuid": "d37ed367-5a48-4c71-a2c2-3795236f95c3",
           "width": 60,
-          "x": 720,
-          "y": 260,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 40,
-          "layer": "Object",
-          "name": "Button",
-          "persistentUuid": "9a09f6ce-c385-461f-9965-3e0fcd541bf5",
-          "width": 60,
-          "x": 840,
-          "y": 440,
-          "zOrder": 4,
+          "x": 750,
+          "y": 280,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23204,6 +23611,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Player",
+          "name": "Bullet",
+          "persistentUuid": "65ffdc67-bc77-4640-beb1-24b1f3dee79e",
+          "width": 120,
+          "x": 780,
+          "y": -120,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -23735,7 +24158,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
@@ -24259,6 +24682,16 @@
                         "=",
                         "2"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangePlan"
+                      },
+                      "parameters": [
+                        "Bullet",
+                        "=",
+                        "35"
+                      ]
                     }
                   ],
                   "events": [
@@ -24589,6 +25022,252 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Button for the wall"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Button",
+                "Button.PointY(\"top\")",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Button",
+                "\"Down\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Button_Wall",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Treasure Box"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key_2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "selverKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key_2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Treasure",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "selverKey",
+                    "True"
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Treasure",
+                "\"Open\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "final Door"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "GoldKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Door",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "GoldKey",
+                    "True"
+                  ]
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Door",
+                "\"Open\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
