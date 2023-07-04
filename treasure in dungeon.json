@@ -3915,6 +3915,24 @@
         "name": "NewSprite2",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Level1Map/tiles_sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Level1Map\\tiles_sheet.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3930,6 +3948,36 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet",
+          "FireCooldown": 0.1,
+          "HasJustFired": false,
+          "FiringArc": 45,
+          "BulletQuantity": 1,
+          "AngleVariance": 0,
+          "RotateBullet": true,
+          "AmmoQuantity": 0,
+          "ShotsPerReload": 0,
+          "ReloadDuration": 1,
+          "MaxAmmo": 0,
+          "ShotsBeforeNextReload": 0,
+          "TotalShotsFired": 0,
+          "TotalBulletsCreated": 0,
+          "StartingAmmo": 0,
+          "TotalReloadsCompleted": 0,
+          "UnlimitedAmmo": true,
+          "ReloadInProgress": false,
+          "HeatIncreasePerShot": 0,
+          "HeatLevel": 0,
+          "AutomaticReloading": true,
+          "OverheatDuration": 0,
+          "LinearCoolingRate": 0.1,
+          "ExponentialCoolingRate": 0.3,
+          "BulletLayer": "",
+          "RandomizedAngle": 0,
+          "BulletSpeedVariance": 0
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash",
           "HalfPeriodTime": 0.1,
@@ -3939,9 +3987,9 @@
         {
           "name": "Health",
           "type": "Health::Health",
-          "Health": 100,
+          "Health": 302,
           "CurrentHealth": 0,
-          "MaxHealth": 100,
+          "MaxHealth": 300,
           "DamageCooldown": 0,
           "IsHealthJustDamaged": false,
           "HealthRegenRate": 0,
@@ -4001,7 +4049,7 @@
             {
               "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.2,
+              "timeBetweenFrames": 0.3,
               "sprites": [
                 {
                   "hasCustomCollisionMask": false,
@@ -4693,7 +4741,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -4849,6 +4897,54 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "Assets\\Players\\Archaeologist Sprite Sheet47",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Bullet",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "extraBorder": 0,
+          "name": "DestroyOutside",
+          "type": "DestroyOutsideBehavior::DestroyOutside"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite3",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5836,13 +5932,13 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
           "deceleration": 1500,
           "gravity": 1000,
-          "ignoreDefaultControls": false,
           "jumpSpeed": 600,
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
@@ -6276,13 +6372,13 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
           "deceleration": 1500,
           "gravity": 1000,
-          "ignoreDefaultControls": false,
           "jumpSpeed": 600,
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
@@ -6780,13 +6876,13 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
           "canGrabWithoutMoving": true,
           "deceleration": 1500,
           "gravity": 1000,
-          "ignoreDefaultControls": false,
           "jumpSpeed": 600,
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
@@ -7246,13 +7342,63 @@
     },
     {
       "assetStoreId": "",
-      "name": "Trap",
+      "name": "LifeBar",
       "tags": "",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
       "behaviors": [],
+      "animations": [
+        {
+          "name": "LifeBar",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "LifeBar",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Trap",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
       "animations": [
         {
           "name": "Assets\\Level2Map\\Dungeon-Platformer-Game-Tileset4-removebg-preview",
@@ -7808,8 +7954,8 @@
         {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "platformType": "Jumpthru",
           "canBeGrabbed": true,
-          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -9274,6 +9420,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
         {
           "name": "Flash",
           "type": "Flash::Flash"
@@ -11744,6 +11894,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash"
         },
@@ -12261,6 +12415,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash"
         },
@@ -12306,7 +12464,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5117784035210186,
+        "zoomFactor": 0.5468750000000014,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -13052,22 +13210,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 40,
-          "layer": "Object",
-          "name": "Button",
-          "persistentUuid": "9a09f6ce-c385-461f-9965-3e0fcd541bf5",
-          "width": 60,
-          "x": 840,
-          "y": 440,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 60,
           "layer": "Land",
           "name": "Land2",
@@ -13585,25 +13727,9 @@
           "name": "Archaeologist",
           "persistentUuid": "295e6d50-24c7-438d-befe-2989d20724f9",
           "width": 60,
-          "x": 1080,
-          "y": 43,
+          "x": 1020,
+          "y": 45,
           "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 75,
-          "layer": "Player",
-          "name": "Adventure",
-          "persistentUuid": "477324e2-3755-418a-bbff-4c94b566bb44",
-          "width": 80,
-          "x": 1000,
-          "y": 47,
-          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16395,7 +16521,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16436,7 +16570,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16477,7 +16619,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16519,7 +16669,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16560,7 +16718,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16601,7 +16767,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16642,7 +16816,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16683,7 +16865,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16724,7 +16914,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16765,7 +16963,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -17139,7 +17345,87 @@
           ]
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Player Heath System"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "v"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Archaeologist",
+                "\"shooting\""
+              ]
+            },
+            {
+              "type": {
+                "value": "FireBullet::FireBullet::Fire"
+              },
+              "parameters": [
+                "Archaeologist",
+                "FireBullet",
+                "Archaeologist.X()+65",
+                "Archaeologist.Y()+36",
+                "Bullet",
+                "0",
+                "800",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "Bullet",
+                "=",
+                "5"
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -17267,6 +17553,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash"
         },
@@ -17308,7 +17598,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6244537826600003,
+        "zoomFactor": 0.5843784410740942,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -17371,8 +17661,8 @@
           "name": "Archaeologist",
           "persistentUuid": "c38de2ab-7f50-48c5-a07a-82eb86fb5ddb",
           "width": 60,
-          "x": 15,
-          "y": 165,
+          "x": 140,
+          "y": 180,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -17400,8 +17690,8 @@
           "name": "Adventure",
           "persistentUuid": "ce0b2e55-9d98-4770-b2ab-560d52710f61",
           "width": 80,
-          "x": 140,
-          "y": 170,
+          "x": 260,
+          "y": 165,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -20559,38 +20849,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
-          "layer": "Land",
-          "name": "Land4",
-          "persistentUuid": "045f6f33-8dbb-43e6-89ef-eed819205ff9",
-          "width": 60,
-          "x": 1220,
-          "y": 540,
-          "zOrder": 42,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 1,
-          "layer": "",
-          "name": "LifeBar",
-          "persistentUuid": "a443a677-cfb9-4a45-872a-396ef26a287b",
-          "width": 120,
-          "x": 20,
-          "y": 60,
-          "zOrder": 45,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 40,
           "layer": "UI",
           "name": "LifeBar",
@@ -20615,6 +20873,22 @@
           "x": 373,
           "y": 23,
           "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 50,
+          "layer": "Land",
+          "name": "Land5",
+          "persistentUuid": "151c88eb-f009-4bf9-ad30-6a66e24ebf7e",
+          "width": 120,
+          "x": 1080,
+          "y": 720,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -21239,48 +21513,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Open9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "LifeBar",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "LifeBar",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "LifeBar",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -22145,6 +22377,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash"
         },
@@ -22233,8 +22469,8 @@
           "name": "Archaeologist",
           "persistentUuid": "c38de2ab-7f50-48c5-a07a-82eb86fb5ddb",
           "width": 60,
-          "x": 1105,
-          "y": 45,
+          "x": 902,
+          "y": 112,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -22249,8 +22485,8 @@
           "name": "Adventure",
           "persistentUuid": "ce0b2e55-9d98-4770-b2ab-560d52710f61",
           "width": 80,
-          "x": 1175,
-          "y": 52,
+          "x": 1151,
+          "y": 40,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -22425,8 +22661,8 @@
           "name": "Key",
           "persistentUuid": "4acdc8c3-a1a2-4734-a2de-f3cdbe25722c",
           "width": 30,
-          "x": 80,
-          "y": 70,
+          "x": 661,
+          "y": 129,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -22809,8 +23045,8 @@
           "name": "Land1",
           "persistentUuid": "b88d9fc4-805d-42df-8a56-e4169b7a2fd9",
           "width": 60,
-          "x": 720,
-          "y": 240,
+          "x": 484,
+          "y": 384,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -23084,6 +23320,67 @@
           "x": 740,
           "y": 610,
           "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 89,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "",
+          "name": "Button",
+          "persistentUuid": "e4b406d8-a183-4968-966e-76af341789d6",
+          "width": 60,
+          "x": 563,
+          "y": 118,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Box2",
+          "persistentUuid": "e0610e10-e202-481d-8cf6-8254fc14430f",
+          "width": 0,
+          "x": 1102,
+          "y": 88,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Box",
+          "persistentUuid": "9d0b59c3-1aef-4983-8449-1fa038df0c2e",
+          "width": 0,
+          "x": 1102,
+          "y": 61,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Box",
+          "persistentUuid": "b9c3df57-4855-466c-af45-c0d69971ecfd",
+          "width": 0,
+          "x": 1098,
+          "y": 33,
+          "zOrder": 47,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -23843,6 +24140,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash"
         },
@@ -24047,6 +24348,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash"
         },
@@ -24250,6 +24555,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
         {
           "name": "Flash",
           "type": "Flash::Flash"
@@ -25358,6 +25667,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
         {
           "name": "Flash",
           "type": "Flash::Flash"
@@ -26868,6 +27181,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flash",
           "type": "Flash::Flash"
         },
@@ -28364,6 +28681,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
         {
           "name": "Flash",
           "type": "Flash::Flash"
