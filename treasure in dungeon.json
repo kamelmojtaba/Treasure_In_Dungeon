@@ -4590,6 +4590,51 @@
         "name": "Assets\\Level3Map\\tiles_sheet.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Assets_Level1Map_tiles_sheet16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Assets_Level1Map_tiles_sheet16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Assets_Level1Map_tiles_sheet18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Assets_Level1Map_tiles_sheet18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Assets_enemies_Skellington_1_skellington_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Assets_enemies_Skellington_1_skellington_1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4685,6 +4730,7 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "xGrabTolerance": 10,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
           "canGrabPlatforms": false,
@@ -4699,7 +4745,6 @@
           "maxSpeed": 250,
           "slopeMaxAngle": 60,
           "useLegacyTrajectory": false,
-          "xGrabTolerance": 10,
           "yGrabOffset": 0
         },
         {
@@ -5143,121 +5188,6 @@
           ]
         },
         {
-          "name": "throw rope",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "throw rope",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "centerPoint": {
-                    "automatic": false,
-                    "name": "centre",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "throw rope2",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "centerPoint": {
-                    "automatic": false,
-                    "name": "centre",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "throw rope3",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "centerPoint": {
-                    "automatic": false,
-                    "name": "centre",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "throw rope4",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "centerPoint": {
-                    "automatic": false,
-                    "name": "centre",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "throw rope5",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "centerPoint": {
-                    "automatic": false,
-                    "name": "centre",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "customCollisionMask": []
-                },
-                {
-                  "hasCustomCollisionMask": false,
-                  "image": "throw rope6",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "centerPoint": {
-                    "automatic": false,
-                    "name": "centre",
-                    "x": 9,
-                    "y": 11
-                  },
-                  "customCollisionMask": []
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "retract rope",
           "useMultipleDirections": false,
           "directions": [
@@ -5272,14 +5202,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "customCollisionMask": []
                 },
@@ -5289,14 +5219,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "customCollisionMask": []
                 },
@@ -5306,14 +5236,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "customCollisionMask": []
                 },
@@ -5323,14 +5253,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "customCollisionMask": []
                 },
@@ -5340,14 +5270,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "customCollisionMask": []
                 },
@@ -5357,14 +5287,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "customCollisionMask": []
                 },
@@ -5374,14 +5304,14 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "customCollisionMask": []
                 },
@@ -5391,14 +5321,129 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
-                    "y": 11
+                    "x": 33,
+                    "y": 17
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "throw rope",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "throw rope",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "throw rope2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "throw rope3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "throw rope4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "throw rope5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "throw rope6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 22,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 22,
+                    "y": 16
                   },
                   "customCollisionMask": []
                 }
@@ -5502,13 +5547,13 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "customCollisionMask": []
@@ -5519,13 +5564,13 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "customCollisionMask": []
@@ -5536,13 +5581,13 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "customCollisionMask": []
@@ -5553,13 +5598,13 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "customCollisionMask": []
@@ -5570,13 +5615,13 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "centerPoint": {
                     "automatic": false,
                     "name": "centre",
-                    "x": 9,
+                    "x": 14,
                     "y": 11
                   },
                   "customCollisionMask": []
@@ -7278,6 +7323,35 @@
       ],
       "animations": [
         {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\Assets_enemies_Skellington_1_skellington_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 6,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "walking",
           "useMultipleDirections": false,
           "directions": [
@@ -7292,8 +7366,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7309,8 +7383,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7326,8 +7400,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7343,8 +7417,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7360,8 +7434,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7377,8 +7451,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7394,8 +7468,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7424,8 +7498,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7441,8 +7515,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7458,8 +7532,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7475,8 +7549,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7492,8 +7566,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7509,8 +7583,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7526,8 +7600,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7543,8 +7617,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 8,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7573,8 +7647,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7590,8 +7664,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7607,8 +7681,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7624,8 +7698,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7641,8 +7715,8 @@
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -13779,7 +13853,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5117784035210186,
+        "zoomFactor": 0.4633111824513987,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -15122,8 +15196,8 @@
           "name": "Monster",
           "persistentUuid": "e59331b7-2868-46cc-a859-2e3920f0c500",
           "width": 60,
-          "x": 420,
-          "y": 60,
+          "x": 390,
+          "y": 90,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -17106,7 +17180,7 @@
           "name": "Box2",
           "persistentUuid": "f761dd50-62f0-43b8-b946-e084a820f56a",
           "width": 60,
-          "x": 60,
+          "x": 65,
           "y": 240,
           "zOrder": 30,
           "numberProperties": [],
@@ -17122,24 +17196,8 @@
           "name": "Box2",
           "persistentUuid": "bb460b57-b10c-4f5e-ac23-0070aac38dc2",
           "width": 60,
-          "x": 60,
+          "x": 65,
           "y": 180,
-          "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 60,
-          "layer": "Object",
-          "name": "Box2",
-          "persistentUuid": "ac78ca7d-6d03-4e64-bce5-22fe03bd7427",
-          "width": 60,
-          "x": 0,
-          "y": 240,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -17816,6 +17874,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Enemy",
+          "name": "Monster",
+          "persistentUuid": "24a5451f-5695-48f5-9118-613114b06f36",
+          "width": 60,
+          "x": 570,
+          "y": 90,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Enemy",
+          "name": "Monster",
+          "persistentUuid": "4a2f0e66-86d0-4e17-88d9-8ea357e87c5d",
+          "width": 60,
+          "x": 750,
+          "y": 90,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -17987,7 +18077,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Assets\\Assets_Level1Map_tiles_sheet17",
+                      "image": "Assets\\Assets_Level1Map_tiles_sheet18",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18032,11 +18122,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Assets\\Assets_Level1Map_tiles_sheet16.png",
+                      "image": "Assets\\Assets_Level1Map_tiles_sheet16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -19027,101 +19118,6 @@
                       },
                       "parameters": [
                         "",
-                        "c"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "\"throw rope\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ChangeAnimationSpeedScale"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "=",
-                        ".8"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "SceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimationName"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "\"throw rope\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimationEnded2"
-                      },
-                      "parameters": [
-                        "Archaeologist"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "False"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "\"idle\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
                         "x"
                       ]
                     }
@@ -19207,6 +19203,101 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "c"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"throw rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeAnimationSpeedScale"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "=",
+                        ".8"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"throw rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"idle\""
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -19246,6 +19337,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Adventure",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -19356,21 +19448,23 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Horizontal of Player"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -19421,6 +19515,705 @@
               ]
             }
           ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Enemy",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Animation"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "finish",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"walking\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Horizontal Movement of Enemy"
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Enemy Heath System",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 1 Heath"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Bullet",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "150",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "finish",
+                    "True"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "\"EnemyDead\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"EnemyDead\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "Monster"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Monster",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 2 Heath"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Bullet",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "150",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"EnemyDead\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"EnemyDead\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSword"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 3 Heath"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Bullet",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "150",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"EnemyDead\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"EnemyDead\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -19526,6 +20319,53 @@
           "conditions": [
             {
               "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Archaeologist",
+                "\"throw rope\""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key_2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "selverKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key_2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::And"
               },
               "parameters": [],
@@ -19577,11 +20417,58 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "final Door"
+          "comment": "Final Door"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "GoldKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Archaeologist",
+                "\"throw rope\""
+              ]
+            },
             {
               "type": {
                 "value": "CollisionNP"
@@ -19662,470 +20549,6 @@
               ]
             }
           ]
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Heath System",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Enemy 1 Heath"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Bullet",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Health",
-                    "="
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Bullet",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Health",
-                    "100",
-                    "no",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"EnemyDead\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"EnemyDead\"",
-                    ">",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationName"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationEnded2"
-                  },
-                  "parameters": [
-                    "Monster"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Monster",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Enemy 2 Heath"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Bullet",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Health",
-                    "="
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Bullet",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Health",
-                    "100",
-                    "no",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"EnemyDead\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"EnemyDead\"",
-                    ">",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationEnded2"
-                  },
-                  "parameters": [
-                    "MonsterSword"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Enemy 3 Heath"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Bullet",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Health",
-                    "="
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Bullet",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Health",
-                    "100",
-                    "no",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"EnemyDead\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"EnemyDead\"",
-                    ">",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationEnded2"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    ""
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ],
       "layers": [
@@ -20300,7 +20723,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5117784035210186,
+        "zoomFactor": 0.47893418845352564,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -21643,8 +22066,8 @@
           "name": "Monster",
           "persistentUuid": "e59331b7-2868-46cc-a859-2e3920f0c500",
           "width": 60,
-          "x": 420,
-          "y": 60,
+          "x": 390,
+          "y": 90,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -23627,7 +24050,7 @@
           "name": "Box2",
           "persistentUuid": "f761dd50-62f0-43b8-b946-e084a820f56a",
           "width": 60,
-          "x": 60,
+          "x": 65,
           "y": 240,
           "zOrder": 30,
           "numberProperties": [],
@@ -23643,24 +24066,8 @@
           "name": "Box2",
           "persistentUuid": "bb460b57-b10c-4f5e-ac23-0070aac38dc2",
           "width": 60,
-          "x": 60,
+          "x": 65,
           "y": 180,
-          "zOrder": 30,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 60,
-          "layer": "Object",
-          "name": "Box2",
-          "persistentUuid": "ac78ca7d-6d03-4e64-bce5-22fe03bd7427",
-          "width": 60,
-          "x": 0,
-          "y": 240,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -24337,6 +24744,38 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Enemy",
+          "name": "Monster",
+          "persistentUuid": "24a5451f-5695-48f5-9118-613114b06f36",
+          "width": 60,
+          "x": 570,
+          "y": 90,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Enemy",
+          "name": "Monster",
+          "persistentUuid": "4a2f0e66-86d0-4e17-88d9-8ea357e87c5d",
+          "width": 60,
+          "x": 750,
+          "y": 90,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -24508,7 +24947,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Assets\\Assets_Level1Map_tiles_sheet17",
+                      "image": "Assets\\Assets_Level1Map_tiles_sheet18",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -24553,11 +24992,12 @@
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Assets\\Assets_Level1Map_tiles_sheet16.png",
+                      "image": "Assets\\Assets_Level1Map_tiles_sheet16",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -25548,101 +25988,6 @@
                       },
                       "parameters": [
                         "",
-                        "c"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "\"throw rope\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ChangeAnimationSpeedScale"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "=",
-                        ".8"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "SceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimationName"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "\"throw rope\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimationEnded2"
-                      },
-                      "parameters": [
-                        "Archaeologist"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "False"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Archaeologist",
-                        "\"idle\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
                         "x"
                       ]
                     }
@@ -25728,6 +26073,101 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "c"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"throw rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeAnimationSpeedScale"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "=",
+                        ".8"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"throw rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetSceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "False"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"idle\""
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -25767,6 +26207,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Adventure",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -25877,21 +26318,23 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Horizontal of Player"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -25942,6 +26385,705 @@
               ]
             }
           ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Enemy",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Animation"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "finish",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"walking\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Horizontal Movement of Enemy"
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Enemy Heath System",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 1 Heath"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Bullet",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "150",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "finish",
+                    "True"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "SceneVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "finish",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ResetObjectTimer"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "\"EnemyDead\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"EnemyDead\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "Monster"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Monster",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 2 Heath"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Bullet",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "150",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"EnemyDead\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"EnemyDead\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSword"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 3 Heath"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Bullet",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Bullet",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "150",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"EnemyDead\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"EnemyDead\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Comment",
@@ -26047,6 +27189,53 @@
           "conditions": [
             {
               "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Archaeologist",
+                "\"throw rope\""
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key_2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "selverKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key_2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
                 "value": "BuiltinCommonInstructions::And"
               },
               "parameters": [],
@@ -26098,11 +27287,58 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "final Door"
+          "comment": "Final Door"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Archaeologist",
+                "Key",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Archaeologist",
+                "GoldKey",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Key",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Archaeologist",
+                "\"throw rope\""
+              ]
+            },
             {
               "type": {
                 "value": "CollisionNP"
@@ -26183,470 +27419,6 @@
               ]
             }
           ]
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Heath System",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Enemy 1 Heath"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Bullet",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Health",
-                    "="
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Bullet",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Health",
-                    "100",
-                    "no",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"EnemyDead\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"EnemyDead\"",
-                    ">",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationName"
-                  },
-                  "parameters": [
-                    "Monster",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationEnded2"
-                  },
-                  "parameters": [
-                    "Monster"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Monster",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Enemy 2 Heath"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Bullet",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Health",
-                    "="
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Bullet",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Health",
-                    "100",
-                    "no",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"EnemyDead\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"EnemyDead\"",
-                    ">",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationEnded2"
-                  },
-                  "parameters": [
-                    "MonsterSword"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "MonsterSword",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Enemy 3 Heath"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Bullet",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Health",
-                    "="
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Bullet",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Health",
-                    "100",
-                    "no",
-                    "no",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "Health",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"EnemyDead\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareObjectTimer"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"EnemyDead\"",
-                    ">",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationName"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    "\"die\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimationEnded2"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "MonsterSwordSheild",
-                    ""
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ],
       "layers": [
@@ -31680,6 +32452,10 @@
         {
           "name": "StayOnScreen",
           "type": "StayOnScreen::StayOnScreen"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -33382,6 +34158,10 @@
         {
           "name": "StayOnScreen",
           "type": "StayOnScreen::StayOnScreen"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -33590,6 +34370,10 @@
         {
           "name": "StayOnScreen",
           "type": "StayOnScreen::StayOnScreen"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
@@ -33798,6 +34582,10 @@
         {
           "name": "StayOnScreen",
           "type": "StayOnScreen::StayOnScreen"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
