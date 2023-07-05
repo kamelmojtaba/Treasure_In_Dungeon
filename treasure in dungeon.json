@@ -5216,7 +5216,7 @@
         "alwaysLoaded": false,
         "file": "Assets/LifeBar.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"Assets/LifeBar.png\",\"extension\":\".png\"}",
         "name": "Assets\\LifeBar.png",
         "smoothed": false,
         "userAdded": true
@@ -5290,6 +5290,34 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Assets_Assets_Level1Map_tiles_sheet17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Assets_Assets_Level1Map_tiles_sheet17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "file": "gunshots1.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "gunshots1.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Assets_UI_UISheet-removebg-preview6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Assets_UI_UISheet-removebg-preview6",
         "smoothed": false,
         "userAdded": true
       }
@@ -10024,6 +10052,83 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Button_Mute",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "Dont Mute",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\UI\\UI9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mute",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Assets\\UI\\UI11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsGroups": [],
@@ -10418,83 +10523,6 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "Assets\\Assets_UI_UISheet-removebg-preview6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "Button_Mute",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [
-            {
-              "name": "Tween",
-              "type": "Tween::TweenBehavior"
-            }
-          ],
-          "animations": [
-            {
-              "name": "Dont Mute",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\UI\\UI9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Mute",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Assets\\UI\\UI11",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -15656,7 +15684,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.529035740215685,
+        "zoomFactor": 0.5653158055126322,
         "windowMask": false
       },
       "objectsGroups": [
@@ -16993,7 +17021,7 @@
           "name": "Monster",
           "persistentUuid": "e59331b7-2868-46cc-a859-2e3920f0c500",
           "width": 58,
-          "x": 420,
+          "x": 422,
           "y": 47,
           "zOrder": 13,
           "numberProperties": [],
@@ -19644,13 +19672,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 83,
+          "height": 80,
           "layer": "Enemy",
           "name": "MonsterSword",
           "persistentUuid": "676baf54-fcb8-46f3-97ff-aa536550a1e5",
-          "width": 89,
+          "width": 90,
           "x": 525,
-          "y": 259,
+          "y": 260,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -19660,13 +19688,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 86,
+          "height": 80,
           "layer": "Enemy",
           "name": "MonsterSwordSheild",
           "persistentUuid": "4af18dd1-e8ef-4804-84f7-57623de7f7a1",
-          "width": 83,
-          "x": 772,
-          "y": 392,
+          "width": 90,
+          "x": 720,
+          "y": 400,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -19840,8 +19868,8 @@
           "layer": "UI",
           "name": "CharacterUI",
           "persistentUuid": "3ca8f4cb-e221-434a-8f53-080db76d3af1",
-          "width": 60,
-          "x": 55,
+          "width": 55,
+          "x": 25,
           "y": 0,
           "zOrder": 38,
           "numberProperties": [],
@@ -19852,13 +19880,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 23,
+          "height": 25,
           "layer": "UI",
           "name": "LifeBar2",
           "persistentUuid": "331ef975-2a2d-4426-b0bd-3d9faf4cc3c5",
-          "width": 166,
-          "x": 126,
-          "y": 19,
+          "width": 170,
+          "x": 125,
+          "y": 17,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -19873,8 +19901,8 @@
           "name": "Archaeologist",
           "persistentUuid": "4f8e8144-5631-41ad-b205-881f0505490f",
           "width": 60,
-          "x": 1041,
-          "y": 87,
+          "x": 351,
+          "y": 620,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -19889,8 +19917,8 @@
           "name": "CharacterUI2",
           "persistentUuid": "34b57c60-2eaf-42f9-b6a6-4d1b18f37e7a",
           "width": 60,
-          "x": 306,
-          "y": -3,
+          "x": 310,
+          "y": 0,
           "zOrder": 41,
           "numberProperties": [],
           "stringProperties": [],
@@ -19904,8 +19932,8 @@
           "name": "Bulit",
           "persistentUuid": "8e64da53-4cb2-49f0-86c6-8d7a917249b8",
           "width": 0,
-          "x": 377,
-          "y": -1,
+          "x": 380,
+          "y": 5,
           "zOrder": 42,
           "numberProperties": [],
           "stringProperties": [],
@@ -19915,12 +19943,12 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "UI",
           "name": "Score",
           "persistentUuid": "1f5bcaf2-2bf3-4349-82ed-1b7d14535387",
           "width": 0,
-          "x": 1050,
-          "y": -3,
+          "x": 555,
+          "y": 1,
           "zOrder": 43,
           "numberProperties": [],
           "stringProperties": [],
@@ -19930,12 +19958,12 @@
           "angle": 0,
           "customSize": false,
           "height": 0,
-          "layer": "",
+          "layer": "UI",
           "name": "Scorenum",
           "persistentUuid": "5debf754-8441-40c9-8158-33658bc2b7e6",
           "width": 0,
-          "x": 1182,
-          "y": 1,
+          "x": 687,
+          "y": 2,
           "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
@@ -20111,7 +20139,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Assets\\Assets_Level1Map_tiles_sheet18",
+                      "image": "Assets\\Assets_Assets_Level1Map_tiles_sheet17",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20883,6 +20911,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Main",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20927,7 +20956,7 @@
                     "Archaeologist",
                     "FireBullet",
                     "=",
-                    "4",
+                    "10",
                     ""
                   ]
                 }
@@ -21067,7 +21096,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Archaeologist Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -21087,6 +21115,21 @@
               ],
               "actions": [],
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "CharacterUI",
+                        "\"1\""
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
@@ -21630,7 +21673,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Bullet Size"
+                  "comment": "Bullet Size and Quantity"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -21649,6 +21692,22 @@
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "Bulit",
+                        "=",
+                        "ToString(Archaeologist.FireBullet::AmmoQuantity())"
+                      ]
+                    }
+                  ]
+                },
+                {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
                     "b": 109,
@@ -21658,7 +21717,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Player Status"
+                  "comment": "Player Status (Game Over)"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -21697,68 +21756,44 @@
                   ]
                 },
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "BehaviorActivated"
+                        "value": "AnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
-                        "PlatformerObject"
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
                       ]
                     }
                   ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "AnimationName"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            "\"die\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimationEnded2"
-                          },
-                          "parameters": [
-                            "Archaeologist"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
                   "actions": [
                     {
                       "type": {
-                        "value": "TextObject::String"
+                        "value": "ModVarGlobal"
                       },
                       "parameters": [
-                        "Bulit",
+                        "LevelSelection",
                         "=",
-                        "ToString(Archaeologist.FireBullet::AmmoQuantity())"
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PushScene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Game Over scene\""
                       ]
                     }
                   ]
@@ -21773,7 +21808,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Score counr"
+                  "comment": "Score Count"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -21873,11 +21908,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": []
                 }
               ]
             }
@@ -21889,7 +21919,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Adventure Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -21909,6 +21938,21 @@
               ],
               "actions": [],
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "CharacterUI",
+                        "\"2\""
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
@@ -22329,7 +22373,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Player Status"
+                  "comment": "Player Status (Game Over)"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -22372,47 +22416,40 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BehaviorActivated"
+                        "value": "AnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
-                        "PlatformerObject"
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
                       ]
                     }
                   ],
-                  "actions": [],
-                  "events": [
+                  "actions": [
                     {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "AnimationName"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            "\"Addie\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimationEnded2"
-                          },
-                          "parameters": [
-                            "Archaeologist"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            ""
-                          ]
-                        }
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "LevelSelection",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PushScene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Game Over scene\""
                       ]
                     }
                   ]
@@ -22427,7 +22464,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Score counr"
+                  "comment": "Score Count"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -23471,6 +23508,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Enemy Heath System = Player Damage System",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -25295,7 +25333,7 @@
                   "parameters": [
                     "LifeBar2",
                     "=",
-                    "166/Archaeologist.Variable(MaxHealth)*Archaeologist.Variable(Health)"
+                    "170/Archaeologist.Variable(MaxHealth)*Archaeologist.Variable(Health)"
                   ]
                 }
               ]
@@ -25341,6 +25379,17 @@
                   },
                   "parameters": [
                     "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Heal"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    "100",
                     ""
                   ]
                 },
@@ -25522,7 +25571,19 @@
                   ]
                 }
               ]
-            },
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Victory",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
@@ -25666,6 +25727,99 @@
                 }
               ]
             },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Door",
+                    "\"Open\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "Door"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Win scene\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    ">=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Puzzle",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
@@ -26156,7 +26310,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.529035740215685,
+        "zoomFactor": 0.5653158055126322,
         "windowMask": false
       },
       "objectsGroups": [
@@ -27488,13 +27642,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
+          "height": 73,
           "layer": "Enemy",
           "name": "Monster",
           "persistentUuid": "e59331b7-2868-46cc-a859-2e3920f0c500",
-          "width": 60,
-          "x": 450,
-          "y": 90,
+          "width": 58,
+          "x": 422,
+          "y": 47,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -30144,13 +30298,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
+          "height": 80,
           "layer": "Enemy",
           "name": "MonsterSword",
           "persistentUuid": "676baf54-fcb8-46f3-97ff-aa536550a1e5",
-          "width": 100,
-          "x": 530,
-          "y": 270,
+          "width": 90,
+          "x": 525,
+          "y": 260,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -30160,13 +30314,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
+          "height": 80,
           "layer": "Enemy",
           "name": "MonsterSwordSheild",
           "persistentUuid": "4af18dd1-e8ef-4804-84f7-57623de7f7a1",
-          "width": 100,
-          "x": 770,
-          "y": 450,
+          "width": 90,
+          "x": 720,
+          "y": 400,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -30340,8 +30494,8 @@
           "layer": "UI",
           "name": "CharacterUI",
           "persistentUuid": "3ca8f4cb-e221-434a-8f53-080db76d3af1",
-          "width": 60,
-          "x": 55,
+          "width": 55,
+          "x": 25,
           "y": 0,
           "zOrder": 38,
           "numberProperties": [],
@@ -30352,13 +30506,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 23,
+          "height": 25,
           "layer": "UI",
           "name": "LifeBar2",
           "persistentUuid": "331ef975-2a2d-4426-b0bd-3d9faf4cc3c5",
-          "width": 166,
-          "x": 126,
-          "y": 19,
+          "width": 170,
+          "x": 125,
+          "y": 17,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -30368,14 +30522,75 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
+          "height": 69,
           "layer": "Player",
           "name": "Archaeologist",
           "persistentUuid": "4f8e8144-5631-41ad-b205-881f0505490f",
           "width": 60,
-          "x": 1022,
-          "y": 82,
+          "x": 351,
+          "y": 620,
           "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "UI",
+          "name": "CharacterUI2",
+          "persistentUuid": "34b57c60-2eaf-42f9-b6a6-4d1b18f37e7a",
+          "width": 60,
+          "x": 310,
+          "y": 0,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "Bulit",
+          "persistentUuid": "8e64da53-4cb2-49f0-86c6-8d7a917249b8",
+          "width": 0,
+          "x": 380,
+          "y": 5,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "Score",
+          "persistentUuid": "1f5bcaf2-2bf3-4349-82ed-1b7d14535387",
+          "width": 0,
+          "x": 555,
+          "y": 1,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "Scorenum",
+          "persistentUuid": "5debf754-8441-40c9-8158-33658bc2b7e6",
+          "width": 0,
+          "x": 687,
+          "y": 2,
+          "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -30550,7 +30765,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Assets\\Assets_Level1Map_tiles_sheet18",
+                      "image": "Assets\\Assets_Assets_Level1Map_tiles_sheet17",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -31228,7 +31443,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "NewSprite6",
+                      "image": "Assets\\NewSprite9.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -31248,6 +31463,72 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Bulit",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "00",
+          "font": "Assets\\Word\\LuckiestGuy.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Scorenum",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "00",
+          "font": "Assets\\Word\\LuckiestGuy.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Score",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Score:",
+          "font": "Assets\\Word\\LuckiestGuy.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -31291,6 +31572,18 @@
                     "TrigerFlip",
                     "=",
                     "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::SetAmmoQuantityOp"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "FireBullet",
+                    "=",
+                    "10",
+                    ""
                   ]
                 }
               ]
@@ -31392,6 +31685,34 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Score"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Scorenum",
+                    "=",
+                    "ToString(GlobalVariable(Score))"
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -31401,7 +31722,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Archaeologist Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -31421,6 +31741,21 @@
               ],
               "actions": [],
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "CharacterUI",
+                        "\"1\""
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
@@ -31641,6 +31976,18 @@
                     },
                     {
                       "type": {
+                        "value": "FireBullet::FireBullet::AmmoQuantity"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "FireBullet",
+                        ">",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "BuiltinCommonInstructions::Once"
                       },
                       "parameters": []
@@ -31664,6 +32011,18 @@
                         "Archaeologist",
                         "=",
                         "1.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::SetAmmoQuantityOp"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "FireBullet",
+                        "-",
+                        "1",
+                        ""
                       ]
                     }
                   ],
@@ -31940,7 +32299,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Bullet Size"
+                  "comment": "Bullet Size and Quantity"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -31959,6 +32318,22 @@
                   ]
                 },
                 {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "Bulit",
+                        "=",
+                        "ToString(Archaeologist.FireBullet::AmmoQuantity())"
+                      ]
+                    }
+                  ]
+                },
+                {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
                     "b": 109,
@@ -31968,7 +32343,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Player Status"
+                  "comment": "Player Status (Game Over)"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -32011,47 +32386,151 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BehaviorActivated"
+                        "value": "AnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
-                        "PlatformerObject"
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
                       ]
                     }
                   ],
-                  "actions": [],
-                  "events": [
+                  "actions": [
                     {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "AnimationName"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            "\"die\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimationEnded2"
-                          },
-                          "parameters": [
-                            "Archaeologist"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            ""
-                          ]
-                        }
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "LevelSelection",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PushScene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Game Over scene\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Score Count"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "5"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "10"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "20"
                       ]
                     }
                   ]
@@ -32066,7 +32545,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Adventure Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -32086,6 +32564,21 @@
               ],
               "actions": [],
               "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "CharacterUI",
+                        "\"2\""
+                      ]
+                    }
+                  ]
+                },
                 {
                   "type": "BuiltinCommonInstructions::Comment",
                   "color": {
@@ -32506,7 +32999,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Player Status"
+                  "comment": "Player Status (Game Over)"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -32549,47 +33042,151 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "BehaviorActivated"
+                        "value": "AnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
-                        "PlatformerObject"
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
                       ]
                     }
                   ],
-                  "actions": [],
-                  "events": [
+                  "actions": [
                     {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "AnimationName"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            "\"Addie\""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimationEnded2"
-                          },
-                          "parameters": [
-                            "Archaeologist"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Archaeologist",
-                            ""
-                          ]
-                        }
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "LevelSelection",
+                        "=",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PushScene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Game Over scene\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Score Count"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "10"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "20"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "30"
                       ]
                     }
                   ]
@@ -33794,7 +34391,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "150",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -33846,7 +34443,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "25",
                     "no",
                     "no",
                     ""
@@ -33990,7 +34587,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "150",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -34042,7 +34639,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "25",
                     "no",
                     "no",
                     ""
@@ -34186,7 +34783,7 @@
                   "parameters": [
                     "Monster",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -34238,7 +34835,7 @@
                   "parameters": [
                     "Monster",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -34290,7 +34887,7 @@
                   "parameters": [
                     "Monster",
                     "Health",
-                    "2.5",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -34434,7 +35031,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -34486,7 +35083,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -34538,7 +35135,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -34682,7 +35279,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -34734,7 +35331,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -34786,7 +35383,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -35362,7 +35959,7 @@
                   "parameters": [
                     "LifeBar2",
                     "=",
-                    "166/Archaeologist.Variable(MaxHealth)*Archaeologist.Variable(Health)"
+                    "170/Archaeologist.Variable(MaxHealth)*Archaeologist.Variable(Health)"
                   ]
                 }
               ]
@@ -35408,6 +36005,17 @@
                   },
                   "parameters": [
                     "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Health::Health::Heal"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    "100",
                     ""
                   ]
                 },
@@ -35577,9 +36185,31 @@
                     "Treasure",
                     "\"Open\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "10"
+                  ]
                 }
               ]
-            },
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Victory",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
@@ -35723,6 +36353,99 @@
                 }
               ]
             },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Door",
+                    "\"Open\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "Door"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Win scene\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    ">=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Puzzle",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
               "type": "BuiltinCommonInstructions::Comment",
               "color": {
@@ -54488,6 +55211,16 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -54533,6 +55266,16 @@
           "variables": [],
           "effects": [],
           "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -54580,6 +55323,16 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -54625,6 +55378,16 @@
           "variables": [],
           "effects": [],
           "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -54819,87 +55582,199 @@
       ],
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Total Score"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Total Score",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "TextObject::String"
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Point",
-                "=",
-                "ToString(GlobalVariable(Score))"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Function and Animation of Button Home, Level, Restart, Next"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+              "comment": "Total Score"
+            },
             {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Home",
-                "",
-                "yes",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Point",
+                    "=",
+                    "ToString(GlobalVariable(Score))"
+                  ]
+                }
               ]
             }
           ],
-          "actions": [],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Animation of Button",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Home, Level, Restart, Next"
+            },
+            {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
                     "Home",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Home",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Home",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Home",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Main scene\"",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -54909,11 +55784,14 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "MouseButtonPressed"
+                    "inverted": true,
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
+                    "Home",
                     "",
-                    "Left"
+                    "yes",
+                    ""
                   ]
                 },
                 {
@@ -54931,13 +55809,159 @@
                   "parameters": [
                     "Home",
                     "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
+                    "\"bouncePast\"",
+                    "100",
                     "no",
                     "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Level",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "ResultPage",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Level",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Level",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Level",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Level scene\"",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -54947,11 +55971,14 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "MouseButtonReleased"
+                    "inverted": true,
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
+                    "Level",
                     "",
-                    "Left"
+                    "yes",
+                    ""
                   ]
                 },
                 {
@@ -54967,139 +55994,440 @@
                     "value": "Tween::AddObjectScaleTween"
                   },
                   "parameters": [
-                    "Home",
+                    "Level",
                     "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
                     "\"bouncePast\"",
                     "100",
                     "no",
                     "yes"
                   ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Restart",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
                 },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Restart",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Restart",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "Tween",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
+                    "\"bouncePast\"",
+                    "100",
+                    "no",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Next",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Next",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Next",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Next",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Next",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "Next",
+                    "Tween",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
+                    "\"bouncePast\"",
+                    "100",
+                    "no",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Function of Button",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Restart Button"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
                 {
                   "type": {
                     "value": "Scene"
                   },
                   "parameters": [
                     "",
-                    "\"Main scene\"",
+                    "\"Level 1 scene\"",
                     ""
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Home",
-                "",
-                "yes",
-                ""
-              ]
             },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Home",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Level",
-                "",
-                "yes",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "ResultPage",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
                   },
                   "parameters": [
-                    "Level",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
+                    "Restart",
+                    "ButtonFSM",
+                    ""
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+                },
                 {
                   "type": {
-                    "value": "MouseButtonPressed"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "",
-                    "Left"
+                    "LevelSelection",
+                    "=",
+                    "2"
                   ]
                 },
                 {
@@ -55110,479 +56438,584 @@
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Level",
-                    "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Level",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PushScene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level scene\""
-                  ]
-                },
                 {
                   "type": {
                     "value": "Scene"
                   },
                   "parameters": [
                     "",
-                    "\"Level scene\"",
+                    "\"Level 2 scene\"",
                     ""
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Level",
-                "",
-                "yes",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 3 scene\"",
+                    ""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 4 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
             {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 5 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Level",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
+              "comment": "Next Level Button"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 2 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "<",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "next",
+                    "=",
+                    "\"Lock\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 3 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "<",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "next",
+                    "=",
+                    "\"Lock\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 4 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "<",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "next",
+                    "=",
+                    "\"Lock\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 5 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "<",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "next",
+                    "=",
+                    "\"Lock\""
+                  ]
+                }
               ]
             }
-          ]
+          ],
+          "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Restart",
-                "",
-                "yes",
-                ""
-              ]
-            }
-          ],
-          "actions": [],
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Music",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Restart",
-                "",
-                "yes",
-                ""
-              ]
+              "comment": "Music"
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Restart",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Next",
-                "",
-                "yes",
-                ""
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Next",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Next",
-                    "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Next",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Next",
-                "",
-                "yes",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Next",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Music"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": []
+          "parameters": []
         }
       ],
       "layers": [
@@ -55648,6 +57081,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet"
         },
@@ -55697,7 +57134,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.5653158055126306,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -55998,6 +57435,16 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -56043,6 +57490,16 @@
           "variables": [],
           "effects": [],
           "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -56090,6 +57547,16 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
@@ -56135,6 +57602,16 @@
           "variables": [],
           "effects": [],
           "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
             {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
@@ -56329,87 +57806,199 @@
       ],
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Total Score"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Total Score",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "TextObject::String"
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Point",
-                "=",
-                "ToString(GlobalVariable(Score))"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Function and Animation of Button Home, Level, Restart, Next"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+              "comment": "Total Score"
+            },
             {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Home",
-                "",
-                "yes",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Point",
+                    "=",
+                    "ToString(GlobalVariable(Score))"
+                  ]
+                }
               ]
             }
           ],
-          "actions": [],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Animation of Button",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Home, Level, Restart, Next"
+            },
+            {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
                     "Home",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Home",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Home",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Home",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Main scene\"",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -56419,11 +58008,14 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "MouseButtonPressed"
+                    "inverted": true,
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
+                    "Home",
                     "",
-                    "Left"
+                    "yes",
+                    ""
                   ]
                 },
                 {
@@ -56441,13 +58033,159 @@
                   "parameters": [
                     "Home",
                     "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
+                    "\"bouncePast\"",
+                    "100",
                     "no",
                     "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Level",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "ResultPage",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Level",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Level",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Level",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Level scene\"",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
@@ -56457,11 +58195,14 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "MouseButtonReleased"
+                    "inverted": true,
+                    "value": "SourisSurObjet"
                   },
                   "parameters": [
+                    "Level",
                     "",
-                    "Left"
+                    "yes",
+                    ""
                   ]
                 },
                 {
@@ -56477,139 +58218,440 @@
                     "value": "Tween::AddObjectScaleTween"
                   },
                   "parameters": [
-                    "Home",
+                    "Level",
                     "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
                     "\"bouncePast\"",
                     "100",
                     "no",
                     "yes"
                   ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Restart",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
                 },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Restart",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Restart",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "Tween",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
+                    "\"bouncePast\"",
+                    "100",
+                    "no",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Next",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Next",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Next",
+                        "Tween",
+                        "\"Press\"",
+                        "1",
+                        "2.4",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Next",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.6",
+                        "3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Next",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "Next",
+                    "Tween",
+                    "\"Default\"",
+                    "1.3",
+                    "2.7",
+                    "\"bouncePast\"",
+                    "100",
+                    "no",
+                    "yes"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Function of Button",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Restart Button"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
                 {
                   "type": {
                     "value": "Scene"
                   },
                   "parameters": [
                     "",
-                    "\"Main scene\"",
+                    "\"Level 1 scene\"",
                     ""
                   ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Home",
-                "",
-                "yes",
-                ""
-              ]
             },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Home",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Level",
-                "",
-                "yes",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarGlobal"
-              },
-              "parameters": [
-                "ResultPage",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
                   },
                   "parameters": [
-                    "Level",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
+                    "Restart",
+                    "ButtonFSM",
+                    ""
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+                },
                 {
                   "type": {
-                    "value": "MouseButtonPressed"
+                    "value": "VarGlobal"
                   },
                   "parameters": [
-                    "",
-                    "Left"
+                    "LevelSelection",
+                    "=",
+                    "2"
                   ]
                 },
                 {
@@ -56620,470 +58662,372 @@
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Level",
-                    "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Level",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                },
                 {
                   "type": {
                     "value": "Scene"
                   },
                   "parameters": [
                     "",
-                    "\"Level scene\"",
+                    "\"Level 2 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 3 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 4 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Restart",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "LevelSelection",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 5 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Next Level Button"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 2 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 3 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 4 scene\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarGlobal"
+                  },
+                  "parameters": [
+                    "CurrentLevel",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Level 5 scene\"",
                     ""
                   ]
                 }
               ]
             }
-          ]
+          ],
+          "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Level",
-                "",
-                "yes",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Level",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Restart",
-                "",
-                "yes",
-                ""
-              ]
-            }
-          ],
-          "actions": [],
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Music",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Restart",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Restart",
-                "",
-                "yes",
-                ""
-              ]
+              "comment": "Music"
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Restart",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Next",
-                "",
-                "yes",
-                ""
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Next",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Next",
-                    "Tween",
-                    "\"Press\"",
-                    "1",
-                    "2.4",
-                    "\"easeOutQuad\"",
-                    "50",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "MouseButtonReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Tween::AddObjectScaleTween"
-                  },
-                  "parameters": [
-                    "Next",
-                    "Tween",
-                    "\"Hover\"",
-                    "1.6",
-                    "3",
-                    "\"bouncePast\"",
-                    "100",
-                    "no",
-                    "yes"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "SourisSurObjet"
-              },
-              "parameters": [
-                "Next",
-                "",
-                "yes",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::AddObjectScaleTween"
-              },
-              "parameters": [
-                "Next",
-                "Tween",
-                "\"Default\"",
-                "1.3",
-                "2.7",
-                "\"bouncePast\"",
-                "100",
-                "no",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Music"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": []
+          "parameters": []
         }
       ],
       "layers": [
@@ -57148,6 +59092,10 @@
         }
       ],
       "behaviorsSharedData": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
         {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet"
