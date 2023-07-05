@@ -5274,6 +5274,24 @@
         "name": "Assets\\NewSprite9.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "8",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -6107,7 +6125,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
@@ -7061,6 +7079,48 @@
     },
     {
       "assetStoreId": "",
+      "name": "CharacterUI2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
       "name": "LifeBar1",
       "tags": "",
       "type": "Sprite",
@@ -7155,9 +7215,9 @@
         {
           "name": "Health",
           "type": "Health::Health",
-          "Health": 300,
+          "Health": 100,
           "CurrentHealth": 0,
-          "MaxHealth": 300,
+          "MaxHealth": 100,
           "DamageCooldown": 0,
           "IsHealthJustDamaged": false,
           "HealthRegenRate": 0,
@@ -7745,9 +7805,9 @@
         {
           "name": "Health",
           "type": "Health::Health",
-          "Health": 300,
+          "Health": 201,
           "CurrentHealth": 0,
-          "MaxHealth": 300,
+          "MaxHealth": 200,
           "DamageCooldown": 0,
           "IsHealthJustDamaged": false,
           "HealthRegenRate": 0,
@@ -19808,14 +19868,75 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
+          "height": 69,
           "layer": "Player",
           "name": "Archaeologist",
           "persistentUuid": "4f8e8144-5631-41ad-b205-881f0505490f",
           "width": 60,
           "x": 1041,
-          "y": 91,
+          "y": 87,
           "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "UI",
+          "name": "CharacterUI2",
+          "persistentUuid": "34b57c60-2eaf-42f9-b6a6-4d1b18f37e7a",
+          "width": 60,
+          "x": 306,
+          "y": -3,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "name": "Bulit",
+          "persistentUuid": "8e64da53-4cb2-49f0-86c6-8d7a917249b8",
+          "width": 0,
+          "x": 377,
+          "y": -1,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Score",
+          "persistentUuid": "1f5bcaf2-2bf3-4349-82ed-1b7d14535387",
+          "width": 0,
+          "x": 1050,
+          "y": -3,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Scorenum",
+          "persistentUuid": "5debf754-8441-40c9-8158-33658bc2b7e6",
+          "width": 0,
+          "x": 1182,
+          "y": 1,
+          "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20688,6 +20809,72 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Bulit",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "00",
+          "font": "Assets\\Word\\LuckiestGuy.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Scorenum",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "00",
+          "font": "Assets\\Word\\LuckiestGuy.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Score",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Score:",
+          "font": "Assets\\Word\\LuckiestGuy.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
         }
       ],
       "events": [
@@ -20696,7 +20883,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Main",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -20731,6 +20917,18 @@
                     "TrigerFlip",
                     "=",
                     "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "FireBullet::FireBullet::SetAmmoQuantityOp"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "FireBullet",
+                    "=",
+                    "4",
+                    ""
                   ]
                 }
               ]
@@ -20829,6 +21027,34 @@
                   "parameters": [
                     "Archaeologist",
                     ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Score"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Scorenum",
+                    "=",
+                    "ToString(GlobalVariable(Score))"
                   ]
                 }
               ]
@@ -21081,6 +21307,18 @@
                     },
                     {
                       "type": {
+                        "value": "FireBullet::FireBullet::AmmoQuantity"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "FireBullet",
+                        ">",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "BuiltinCommonInstructions::Once"
                       },
                       "parameters": []
@@ -21104,6 +21342,18 @@
                         "Archaeologist",
                         "=",
                         "1.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::SetAmmoQuantityOp"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "FireBullet",
+                        "-",
+                        "1",
+                        ""
                       ]
                     }
                   ],
@@ -21447,6 +21697,7 @@
                   ]
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -21495,6 +21746,138 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "Bulit",
+                        "=",
+                        "ToString(Archaeologist.FireBullet::AmmoQuantity())"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Score counr"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "5"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "10"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "20"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
                 }
               ]
             }
@@ -22030,6 +22413,117 @@
                             ""
                           ]
                         }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Score counr"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "10"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "20"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "Score",
+                        "+",
+                        "30"
                       ]
                     }
                   ]
@@ -22977,7 +23471,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemy Heath System = Player Damage System",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -23234,7 +23727,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "150",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -23286,7 +23779,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "25",
                     "no",
                     "no",
                     ""
@@ -23430,7 +23923,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "150",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -23482,7 +23975,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "25",
                     "no",
                     "no",
                     ""
@@ -23626,7 +24119,7 @@
                   "parameters": [
                     "Monster",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -23678,7 +24171,7 @@
                   "parameters": [
                     "Monster",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -23730,7 +24223,7 @@
                   "parameters": [
                     "Monster",
                     "Health",
-                    "2.5",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -23874,7 +24367,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -23926,7 +24419,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -23978,7 +24471,7 @@
                   "parameters": [
                     "MonsterSword",
                     "Health",
-                    "2.5",
+                    "100",
                     "no",
                     "no",
                     ""
@@ -24122,7 +24615,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -24174,7 +24667,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -24226,7 +24719,7 @@
                   "parameters": [
                     "MonsterSwordSheild",
                     "Health",
-                    "2.5",
+                    "50",
                     "no",
                     "no",
                     ""
@@ -25016,6 +25509,16 @@
                   "parameters": [
                     "Treasure",
                     "\"Open\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarGlobal"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "10"
                   ]
                 }
               ]
