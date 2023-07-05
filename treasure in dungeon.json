@@ -5584,39 +5584,156 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Open18.png",
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v83.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Open18",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Players_Dwarf Sprite Sheet 1.3v83.png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v83",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Open19.png",
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "Open19",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Open20.png",
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "Open20",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet2",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": true
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Open21.png",
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
-        "name": "Open21",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet3",
         "smoothed": false,
-        "userAdded": false
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v84",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v85",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v86",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v87",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v88.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v88",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v89.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v89",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v90.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v90",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v91.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v91",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v92.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v92",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Assets_Players_Dwarf Sprite Sheet 1.3v93.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Assets\\Players\\Dwarf Sprite Sheet 1.3v93",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Assets_Level3Map_tiles_sheet10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Assets/Assets_Level3Map_tiles_sheet10.png\",\"extension\":\".png\"}",
+        "name": "Assets\\Assets_Level3Map_tiles_sheet10.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -14465,7 +14582,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.43357743047023806,
+        "zoomFactor": 0.35534345588169924,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14585,11 +14702,11 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 292,
+          "height": 290,
           "layer": "Text",
           "name": "Adventure",
           "persistentUuid": "dff44710-ba28-40fa-a57a-7684f16a3b7a",
-          "width": 260,
+          "width": 340,
           "x": 763,
           "y": 258,
           "zOrder": 8,
@@ -14701,12 +14818,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 292,
+          "height": 290,
           "layer": "Text",
           "name": "Adventure",
           "persistentUuid": "b8600db3-420a-4a01-8d87-4a9f03bc8328",
-          "width": 260,
-          "x": 2171,
+          "width": 340,
+          "x": 2127,
           "y": 241,
           "zOrder": 8,
           "numberProperties": [],
@@ -14818,11 +14935,11 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 189,
+          "height": 185,
           "layer": "Text",
           "name": "Adventure",
           "persistentUuid": "071c3e1f-ac84-4d98-9de7-36c292a420c6",
-          "width": 171,
+          "width": 240,
           "x": 3319,
           "y": 371,
           "zOrder": 8,
@@ -15090,15 +15207,805 @@
         },
         {
           "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 685,
+          "layer": "Board",
+          "name": "Board",
+          "persistentUuid": "24ed0eb8-fbd1-4fad-8fe7-8290787d8531",
+          "width": 1250,
+          "x": 5638,
+          "y": 28,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark5",
+          "persistentUuid": "753b23d6-c1df-422b-b35b-500e0d3cf5b5",
+          "width": 1254,
+          "x": 5634,
+          "y": 29,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 720,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "7b29f63e-ae75-47b6-825a-a3924c20ce78",
+          "width": 1280,
+          "x": 5617,
+          "y": 13,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "trap",
+          "persistentUuid": "06dca65f-4596-4914-b9fc-5de1fdefb7e9",
+          "width": 0,
+          "x": 6186,
+          "y": 71,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 120,
+          "layer": "Text",
+          "name": "Trap",
+          "persistentUuid": "fdb76c56-9242-4102-bff7-f235d6f55432",
+          "width": 392,
+          "x": 6039,
+          "y": 298,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Button",
+          "name": "Next",
+          "persistentUuid": "8363a277-07d9-4132-b2ba-96ee0bc1cd88",
+          "width": 0,
+          "x": 4737,
+          "y": 602,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "cc72458b-661c-4d16-9a84-057b51e67225",
+          "width": 500,
+          "x": 6004,
+          "y": 554,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Button",
+          "name": "Next",
+          "persistentUuid": "d96ef60b-ac60-4589-b4b2-2e4abb3c319a",
+          "width": 0,
+          "x": 6185,
+          "y": 577,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 685,
+          "layer": "Board",
+          "name": "Board",
+          "persistentUuid": "e927cc3c-91a1-4f0a-beb0-5326d0507373",
+          "width": 1250,
+          "x": 7061,
+          "y": 22,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark5",
+          "persistentUuid": "c94b0d79-0499-40fe-8b53-d1b655537ba6",
+          "width": 1254,
+          "x": 7066,
+          "y": 28,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 720,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "5f06e05f-537f-4494-80fd-dbdbe381fbcf",
+          "width": 1280,
+          "x": 7049,
+          "y": 0,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "bb992a46-adc1-4b16-b80c-e08330aaced5",
+          "width": 500,
+          "x": 7445,
+          "y": 548,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Button",
+          "name": "Next",
+          "persistentUuid": "50276284-448c-432a-884b-4770b765d294",
+          "width": 0,
+          "x": 7626,
+          "y": 571,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "mechanism",
+          "persistentUuid": "b6298fff-4588-435e-a910-5e48a8bc640d",
+          "width": 0,
+          "x": 7435,
+          "y": 82,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 140,
+          "layer": "Text",
+          "name": "Key",
+          "persistentUuid": "f0370782-3df6-4bcf-b5d4-a294a7029990",
+          "width": 100,
+          "x": 7230,
+          "y": 323,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 140,
+          "layer": "Text",
+          "name": "Key_2",
+          "persistentUuid": "dbe38624-0c8e-423b-b166-0e45d1fc5667",
+          "width": 100,
+          "x": 7319,
+          "y": 252,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 140,
+          "layer": "Text",
+          "name": "Button_Wall",
+          "persistentUuid": "09ece919-bdf7-4bab-b487-cae2558bd0c3",
+          "width": 140,
+          "x": 7957,
+          "y": 249,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Text",
+          "name": "Button",
+          "persistentUuid": "e589b682-097a-459c-87a6-4dab92ff7baa",
+          "width": 140,
+          "x": 7801,
+          "y": 322,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 59,
+          "layer": "Text",
+          "name": "Mechanism",
+          "persistentUuid": "f892ccf7-aa88-4797-b175-a907a50ccb04",
+          "width": 1072,
+          "x": 7114,
+          "y": 191,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 175,
+          "layer": "Text",
+          "name": "discription4",
+          "persistentUuid": "ae5583a1-29bf-49db-a8cf-c1cbc34314b0",
+          "width": 1219,
+          "x": 7067,
+          "y": 423,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 685,
+          "layer": "Board",
+          "name": "Board",
+          "persistentUuid": "8a7170c8-d8e3-4685-bac4-7f889b3be88b",
+          "width": 1250,
+          "x": 8480,
+          "y": 15,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark5",
+          "persistentUuid": "90e16504-cdd4-4551-ba94-769c11554a20",
+          "width": 1254,
+          "x": 8485,
+          "y": 15,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 720,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "1b91d7af-93e9-4bfd-961a-a8ac2ae4636f",
+          "width": 1280,
+          "x": 8468,
+          "y": 0,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "d0e79687-e2aa-4c1d-a1b5-d65396ee36a8",
+          "width": 500,
+          "x": 8864,
+          "y": 544,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Button",
+          "name": "Next",
+          "persistentUuid": "c4dd4686-4974-46ba-aa3b-a6558a901e09",
+          "width": 0,
+          "x": 9045,
+          "y": 567,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "mechanism2",
+          "persistentUuid": "2fa76478-7ad5-4e16-82e1-e1d290a22db0",
+          "width": 0,
+          "x": 8879,
+          "y": 73,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 140,
+          "layer": "Text",
+          "name": "Health",
+          "persistentUuid": "d51467f3-2c84-4604-8891-10fc1b2ce767",
+          "width": 140,
+          "x": 8736,
+          "y": 255,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 140,
+          "layer": "Text",
+          "name": "Treasure",
+          "persistentUuid": "7a505405-0d51-45b3-8649-45ba555d489a",
+          "width": 140,
+          "x": 9285,
+          "y": 243,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Mechanism2",
+          "persistentUuid": "2e69726b-db9b-4bf3-8c18-68e38f1efb3b",
+          "width": 0,
+          "x": 8561,
+          "y": 192,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "discription5",
+          "persistentUuid": "1c02b5ad-3226-4383-836f-94010c2caa62",
+          "width": 0,
+          "x": 8637,
+          "y": 426,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 685,
+          "layer": "Board",
+          "name": "Board",
+          "persistentUuid": "5aadd214-7975-408f-ace5-650eb85df7b9",
+          "width": 1250,
+          "x": 9883,
+          "y": 14,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark5",
+          "persistentUuid": "8b574650-a856-400a-9c9e-870d076ccd8a",
+          "width": 1254,
+          "x": 9888,
+          "y": 14,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 720,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "547555fa-7a57-4a68-bbd7-37e31e5e4fcf",
+          "width": 1280,
+          "x": 9871,
+          "y": 0,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "de755386-f124-4f81-9fa9-fbba73843478",
+          "width": 500,
+          "x": 10267,
+          "y": 543,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Button",
+          "name": "Next",
+          "persistentUuid": "7218424c-5e86-422c-b1b1-b348799f4ccc",
+          "width": 0,
+          "x": 10448,
+          "y": 566,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 208,
+          "layer": "Text",
+          "name": "Door",
+          "persistentUuid": "8e37cbe8-83ae-4313-9de4-d89defc5493a",
+          "width": 150,
+          "x": 10093,
+          "y": 228,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 158,
+          "layer": "Text",
+          "name": "PortalDoor",
+          "persistentUuid": "65a6fcc1-e874-41af-a37c-51de02445f75",
+          "width": 235,
+          "x": 10714,
+          "y": 278,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "discription6",
+          "persistentUuid": "8cd244b0-b70d-4b2f-8dbd-35ff80901c74",
+          "width": 0,
+          "x": 9948,
+          "y": 447,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 74,
+          "layer": "Text",
+          "name": "Mechanism3",
+          "persistentUuid": "b9a65904-a8a1-4f9f-8cee-ec9f821b8c4e",
+          "width": 1136,
+          "x": 9950,
+          "y": 169,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 685,
+          "layer": "Board",
+          "name": "Board",
+          "persistentUuid": "e2fb539b-1177-4050-9f42-8a03cc85c607",
+          "width": 1250,
+          "x": 11291,
+          "y": 14,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark5",
+          "persistentUuid": "d6d11e6c-6dd9-4f19-b85d-08573fdd959f",
+          "width": 1254,
+          "x": 11296,
+          "y": 14,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 720,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "a6601596-b948-46ae-92b8-0666ea9d3213",
+          "width": 1280,
+          "x": 11279,
+          "y": 0,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "52cc1267-a716-4c24-b199-d4ff81b2d76a",
+          "width": 500,
+          "x": 11675,
+          "y": 543,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 285,
+          "layer": "Text",
+          "name": "Archaeologist",
+          "persistentUuid": "f75baadb-39d6-4628-9e2d-d7bf29102445",
+          "width": 179,
+          "x": 12044,
+          "y": 361,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 290,
+          "layer": "Text",
+          "name": "Adventure",
+          "persistentUuid": "cac47e9c-d190-4f67-9233-83a83c58721f",
+          "width": 340,
+          "x": 12148,
+          "y": 229,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "mechanism3",
+          "persistentUuid": "414e9977-23b6-47c4-95f7-2faff8e7fd0d",
+          "width": 0,
+          "x": 10313,
+          "y": 68,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "attention",
+          "persistentUuid": "9ec1e88e-1a54-4eef-b633-46a21b584ed6",
+          "width": 0,
+          "x": 11694,
+          "y": 70,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 213,
+          "layer": "Text",
+          "name": "Attention",
+          "persistentUuid": "c18c73ca-6652-466b-9989-1abaedb7ed79",
+          "width": 630,
+          "x": 11326,
+          "y": 245,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "Text",
           "name": "Back",
-          "persistentUuid": "a4471d9c-f2cd-4c88-bbdd-18180aa5c647",
+          "persistentUuid": "1617cee6-3e08-4b26-b4c2-547d82ea5402",
           "width": 0,
-          "x": 4734,
-          "y": 601,
-          "zOrder": 23,
+          "x": 11864,
+          "y": 563,
+          "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15372,7 +16279,117 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Enemies",
+          "string": "Enemy",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 110,
+          "color": {
+            "b": 74,
+            "g": 74,
+            "r": 74
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "trap",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Trap",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 110,
+          "color": {
+            "b": 74,
+            "g": 74,
+            "r": 74
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "mechanism",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Mechanism",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 110,
+          "color": {
+            "b": 74,
+            "g": 74,
+            "r": 74
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "mechanism2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Mechanism",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 110,
+          "color": {
+            "b": 74,
+            "g": 74,
+            "r": 74
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "mechanism3",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Mechanism",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 110,
+          "color": {
+            "b": 74,
+            "g": 74,
+            "r": 74
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "attention",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Attention",
           "font": "Assets\\Word\\Charybdis.ttf",
           "textAlignment": "left",
           "characterSize": 110,
@@ -15452,6 +16469,72 @@
           "assetStoreId": "",
           "bold": true,
           "italic": false,
+          "name": "discription4",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Silver- Open Treasure        Step on the button and \nGold- Open door                the wall will be \n                                             clashed.\n",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "center",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "discription5",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Health the Character      Get bonus marks\n\n",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "center",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "discription6",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Game level clear and the       Teleport to other door\nway to the next level",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
           "name": "Enemiesname",
           "smoothed": true,
           "tags": "",
@@ -15463,6 +16546,94 @@
           "string": "Monster       Monster sword       Monster shield\n",
           "font": "Assets\\Word\\Charybdis.ttf",
           "textAlignment": "center",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Mechanism",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "   Key                   Button & Wall\n\n",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "center",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Mechanism2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "        Health                  Treasure\n\n",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "center",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Mechanism3",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "        Door                      Portal Door",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Attention",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "There are some place \nonly Archaeologist can pass \nbecause Adventure body size \nis bigger than Archaeologist. ",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
           "characterSize": 50,
           "color": {
             "b": 0,
@@ -15561,6 +16732,407 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 60,
+          "name": "Mark5",
+          "tags": "",
+          "texture": "Assets\\New image.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 60,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "Adventure",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v84",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v85",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v86",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v87",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v88",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v89",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v90",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v91",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kurukuru",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v92",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Dwarf Sprite Sheet 1.3v93",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Door",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Close.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "PortalDoor",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Assets\\Assets_Level3Map_tiles_sheet10",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Assets_Level3Map_tiles_sheet10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -15782,6 +17354,16 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
+                "Archaeologist",
+                "PlatformerObject",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
                 "Adventure",
                 "PlatformerObject",
                 ""
@@ -15803,16 +17385,6 @@
               },
               "parameters": [
                 "MonsterSword",
-                "PlatformerObject",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Archaeologist",
                 "PlatformerObject",
                 ""
               ]
@@ -16064,7 +17636,7 @@
               "parameters": [
                 "Archaeologist",
                 "=",
-                ".6"
+                ".8"
               ]
             },
             {
@@ -16074,7 +17646,7 @@
               "parameters": [
                 "Adventure",
                 "=",
-                ".6"
+                ".8"
               ]
             }
           ]
@@ -16167,6 +17739,24 @@
               },
               "parameters": [
                 "Monster",
+                "\"walking\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "MonsterSword",
+                "\"walking\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "MonsterSwordSheild",
                 "\"walking\""
               ]
             }
@@ -22654,7 +24244,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Adventure Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29050,7 +30639,7 @@
           "persistentUuid": "127195aa-e0ad-45ec-8acf-cb07bd52ea98",
           "width": 84,
           "x": 570,
-          "y": 697,
+          "y": 695,
           "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
@@ -29065,8 +30654,8 @@
           "name": "Trap",
           "persistentUuid": "b2719f2a-8e8b-4b66-aeb2-dc1038a25360",
           "width": 84,
-          "x": 651,
-          "y": 696,
+          "x": 645,
+          "y": 695,
           "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
@@ -29081,7 +30670,7 @@
           "name": "Trap",
           "persistentUuid": "b075d2eb-34b5-4fe1-83ea-945c8e960c87",
           "width": 84,
-          "x": 717,
+          "x": 720,
           "y": 695,
           "zOrder": 44,
           "numberProperties": [],
@@ -31114,8 +32703,8 @@
           "behaviors": [
             {
               "name": "Platform",
-              "platformType": "Jumpthru",
               "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "Jumpthru",
               "canBeGrabbed": true,
               "yGrabOffset": 0
             }
