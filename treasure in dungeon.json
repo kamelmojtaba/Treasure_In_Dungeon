@@ -1652,7 +1652,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_Players_Archaeologist Sprite Sheet43.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Players_Archaeologist Sprite Sheet43.png\"}",
         "name": "Assets\\Players\\Archaeologist Sprite Sheet43",
         "smoothed": false,
         "userAdded": true
@@ -1661,7 +1661,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_Players_Archaeologist Sprite Sheet44.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Players_Archaeologist Sprite Sheet44.png\"}",
         "name": "Assets\\Players\\Archaeologist Sprite Sheet44",
         "smoothed": false,
         "userAdded": true
@@ -1670,7 +1670,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_Players_Archaeologist Sprite Sheet45.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Players_Archaeologist Sprite Sheet45.png\"}",
         "name": "Assets\\Players\\Archaeologist Sprite Sheet45",
         "smoothed": false,
         "userAdded": true
@@ -1679,7 +1679,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_Players_Archaeologist Sprite Sheet46.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Players_Archaeologist Sprite Sheet46.png\"}",
         "name": "Assets\\Players\\Archaeologist Sprite Sheet46",
         "smoothed": false,
         "userAdded": true
@@ -1688,7 +1688,7 @@
         "alwaysLoaded": false,
         "file": "assets/Assets_Players_Archaeologist Sprite Sheet47.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Assets_Players_Archaeologist Sprite Sheet47.png\"}",
         "name": "Assets\\Players\\Archaeologist Sprite Sheet47",
         "smoothed": false,
         "userAdded": true
@@ -4460,7 +4460,7 @@
         "alwaysLoaded": false,
         "file": "assets/Addie7.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Addie7.png\"}",
         "name": "Addie7",
         "smoothed": false,
         "userAdded": false
@@ -4469,7 +4469,7 @@
         "alwaysLoaded": false,
         "file": "assets/Addie8.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Addie8.png\"}",
         "name": "Addie8",
         "smoothed": false,
         "userAdded": false
@@ -4478,7 +4478,7 @@
         "alwaysLoaded": false,
         "file": "assets/Addie9.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Addie9.png\"}",
         "name": "Addie9",
         "smoothed": false,
         "userAdded": false
@@ -4487,7 +4487,7 @@
         "alwaysLoaded": false,
         "file": "assets/Addie10.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Addie10.png\"}",
         "name": "Addie10",
         "smoothed": false,
         "userAdded": false
@@ -4496,7 +4496,7 @@
         "alwaysLoaded": false,
         "file": "assets/Addie11.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Addie11.png\"}",
         "name": "Addie11",
         "smoothed": false,
         "userAdded": false
@@ -4505,7 +4505,7 @@
         "alwaysLoaded": false,
         "file": "assets/Addie12.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Addie12.png\"}",
         "name": "Addie12",
         "smoothed": false,
         "userAdded": false
@@ -4523,7 +4523,7 @@
         "alwaysLoaded": false,
         "file": "assets/Down4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Down4.png\"}",
         "name": "Down4",
         "smoothed": false,
         "userAdded": false
@@ -4532,7 +4532,7 @@
         "alwaysLoaded": false,
         "file": "assets/Down5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Down5.png\"}",
         "name": "Down5",
         "smoothed": false,
         "userAdded": false
@@ -4541,7 +4541,7 @@
         "alwaysLoaded": false,
         "file": "assets/Down6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Down6.png\"}",
         "name": "Down6",
         "smoothed": false,
         "userAdded": false
@@ -4644,6 +4644,33 @@
         "name": "NewSprite6",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Assets/Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Assets\\Assets_Level2Map_Dungeon-Platformer-Game-Tileset4-removebg-preview26.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -7312,6 +7339,7 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "maxSpeed": 150,
           "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
@@ -7323,7 +7351,6 @@
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
-          "maxSpeed": 250,
           "slopeMaxAngle": 60,
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
@@ -7345,7 +7372,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 13,
+                      "x": 12,
                       "y": 9.5
                     }
                   ],
@@ -7381,7 +7408,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 15.5,
+                      "x": 14.5,
                       "y": 10
                     }
                   ],
@@ -7404,7 +7431,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 15.5,
+                      "x": 14.5,
                       "y": 10
                     }
                   ],
@@ -7427,7 +7454,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 15.5,
+                      "x": 14.5,
                       "y": 10
                     }
                   ],
@@ -7450,7 +7477,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 15.5,
+                      "x": 14.5,
                       "y": 10
                     }
                   ],
@@ -7473,7 +7500,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 15.5,
+                      "x": 14.5,
                       "y": 10
                     }
                   ],
@@ -7496,7 +7523,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 15.5,
+                      "x": 14.5,
                       "y": 10
                     }
                   ],
@@ -7519,7 +7546,7 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 15.5,
+                      "x": 14.5,
                       "y": 10
                     }
                   ],
@@ -7552,7 +7579,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack9",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7569,7 +7602,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack10",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7586,7 +7625,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack11",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7603,7 +7648,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack12",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7620,7 +7671,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack13",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7637,7 +7694,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack14",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7654,7 +7717,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack15",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7671,7 +7740,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "attack16",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 16,
+                      "y": 11
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 8,
@@ -7701,7 +7776,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "die6",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 7,
+                      "y": 10
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 7,
@@ -7718,7 +7799,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "die7",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 7,
+                      "y": 10
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 7,
@@ -7735,7 +7822,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "die8",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 7,
+                      "y": 10
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 7,
@@ -7752,7 +7845,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "die9",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 7,
+                      "y": 10
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 7,
@@ -7769,7 +7868,13 @@
                 {
                   "hasCustomCollisionMask": false,
                   "image": "die10",
-                  "points": [],
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 7,
+                      "y": 10
+                    }
+                  ],
                   "originPoint": {
                     "name": "origine",
                     "x": 7,
@@ -7829,6 +7934,7 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "maxSpeed": 150,
           "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
@@ -7840,7 +7946,6 @@
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
-          "maxSpeed": 250,
           "slopeMaxAngle": 60,
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
@@ -7848,6 +7953,42 @@
         }
       ],
       "animations": [
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle",
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 22,
+                      "y": 11
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 11,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "walking",
           "useMultipleDirections": false,
@@ -7864,13 +8005,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 11
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7887,13 +8028,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 11
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7910,13 +8051,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 11
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7933,13 +8074,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 11
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7956,13 +8097,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 11
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -7979,13 +8120,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 11
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8002,13 +8143,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 11
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12.5,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8037,14 +8178,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 25,
-                      "y": 10.5
+                      "x": 24,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8060,14 +8201,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 25,
-                      "y": 10.5
+                      "x": 24,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8083,14 +8224,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 25,
-                      "y": 10.5
+                      "x": 24,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8106,14 +8247,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 25,
-                      "y": 10.5
+                      "x": 24,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8129,14 +8270,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 25,
-                      "y": 10.5
+                      "x": 24,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8152,14 +8293,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 25,
-                      "y": 10.5
+                      "x": 24,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8175,14 +8316,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 25,
-                      "y": 10.5
+                      "x": 24,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8201,7 +8342,7 @@
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": true,
+              "looping": false,
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.2,
               "sprites": [
@@ -8212,13 +8353,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 13
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8235,13 +8376,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 13
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8258,13 +8399,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 13
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8281,13 +8422,13 @@
                     {
                       "name": "cols",
                       "x": 25,
-                      "y": 10.5
+                      "y": 13
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 12,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8471,6 +8612,7 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "maxSpeed": 150,
           "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGoDownFromJumpthru": true,
@@ -8482,7 +8624,6 @@
           "jumpSustainTime": 0.2,
           "ladderClimbingSpeed": 150,
           "maxFallingSpeed": 700,
-          "maxSpeed": 250,
           "slopeMaxAngle": 60,
           "useLegacyTrajectory": false,
           "xGrabTolerance": 10,
@@ -8490,6 +8631,42 @@
         }
       ],
       "animations": [
+        {
+          "name": "idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "idle2",
+                  "points": [
+                    {
+                      "name": "cols",
+                      "x": 23,
+                      "y": 11
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 11.5,
+                    "y": 9.5
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "walking",
           "useMultipleDirections": false,
@@ -8511,8 +8688,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8534,8 +8711,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8557,8 +8734,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8580,8 +8757,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8603,8 +8780,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8626,8 +8803,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8649,8 +8826,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8679,14 +8856,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 25,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8702,14 +8879,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 25,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8725,14 +8902,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 25,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8748,14 +8925,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 25,
+                      "y": 12
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13,
+                    "y": 10.5
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8784,14 +8961,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 27,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13.5,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8807,14 +8984,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 27,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13.5,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8830,14 +9007,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 27,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13.5,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8853,14 +9030,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 27,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13.5,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8876,14 +9053,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 27,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13.5,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8899,14 +9076,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 27,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13.5,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8922,14 +9099,14 @@
                   "points": [
                     {
                       "name": "cols",
-                      "x": 26,
-                      "y": 10.5
+                      "x": 27,
+                      "y": 14.5
                     }
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 13.5,
+                    "y": 11
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8964,8 +9141,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -8987,8 +9164,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9010,8 +9187,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9033,8 +9210,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -9056,8 +9233,8 @@
                   ],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 7,
+                    "y": 10
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -20273,8 +20450,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
-          "name": "Enemy",
+          "name": "Enemy Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -20288,7 +20464,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Animation"
+              "comment": "Enemy 1"
             },
             {
               "type": "BuiltinCommonInstructions::Comment",
@@ -20671,7 +20847,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemy Heath System",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -21975,10 +22150,25 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.47893418845352564,
+        "zoomFactor": 0.5653158055126322,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Monsters",
+          "objects": [
+            {
+              "name": "Monster"
+            },
+            {
+              "name": "MonsterSword"
+            },
+            {
+              "name": "MonsterSwordSheild"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
         {
@@ -22884,22 +23074,6 @@
           "height": 60,
           "layer": "Land",
           "name": "Land2",
-          "persistentUuid": "a0c6e1b4-32a2-4863-996b-d9a4dcc68c63",
-          "width": 60,
-          "x": 540,
-          "y": 660,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 60,
-          "layer": "Land",
-          "name": "Land2",
           "persistentUuid": "c627384a-d141-4b54-9aaf-e90bdac9e3e4",
           "width": 60,
           "x": 480,
@@ -23041,13 +23215,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 40,
+          "height": 30,
           "layer": "Trap",
           "name": "Trap",
           "persistentUuid": "4a247969-6afe-47a7-a655-129b54587cbe",
           "width": 60,
           "x": 660,
-          "y": 680,
+          "y": 690,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -23057,13 +23231,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 40,
+          "height": 30,
           "layer": "Trap",
           "name": "Trap",
           "persistentUuid": "4db4c632-2a18-4596-93be-3b3130a8ec97",
           "width": 60,
           "x": 600,
-          "y": 680,
+          "y": 690,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -23238,8 +23412,8 @@
           "name": "Archaeologist",
           "persistentUuid": "295e6d50-24c7-438d-befe-2989d20724f9",
           "width": 60,
-          "x": 1054,
-          "y": 83,
+          "x": 514,
+          "y": 578,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -23318,7 +23492,7 @@
           "name": "Monster",
           "persistentUuid": "e59331b7-2868-46cc-a859-2e3920f0c500",
           "width": 60,
-          "x": 390,
+          "x": 450,
           "y": 90,
           "zOrder": 13,
           "numberProperties": [],
@@ -25302,7 +25476,7 @@
           "name": "Box2",
           "persistentUuid": "f761dd50-62f0-43b8-b946-e084a820f56a",
           "width": 60,
-          "x": 65,
+          "x": 40,
           "y": 240,
           "zOrder": 30,
           "numberProperties": [],
@@ -25318,7 +25492,7 @@
           "name": "Box2",
           "persistentUuid": "bb460b57-b10c-4f5e-ac23-0070aac38dc2",
           "width": 60,
-          "x": 65,
+          "x": 40,
           "y": 180,
           "zOrder": 30,
           "numberProperties": [],
@@ -25974,8 +26148,8 @@
           "name": "MonsterSword",
           "persistentUuid": "676baf54-fcb8-46f3-97ff-aa536550a1e5",
           "width": 100,
-          "x": 540,
-          "y": 240,
+          "x": 530,
+          "y": 270,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -25990,8 +26164,8 @@
           "name": "MonsterSwordSheild",
           "persistentUuid": "4af18dd1-e8ef-4804-84f7-57623de7f7a1",
           "width": 100,
-          "x": 900,
-          "y": 240,
+          "x": 770,
+          "y": 450,
           "zOrder": 35,
           "numberProperties": [],
           "stringProperties": [],
@@ -26001,14 +26175,94 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
+          "height": 120,
           "layer": "Enemy",
-          "name": "Monster",
-          "persistentUuid": "24a5451f-5695-48f5-9118-613114b06f36",
-          "width": 60,
-          "x": 570,
-          "y": 90,
-          "zOrder": 13,
+          "name": "TrigerFlip",
+          "persistentUuid": "2d1a4c31-cebf-4d22-9efe-485be0ce78bf",
+          "width": 64,
+          "x": 540,
+          "y": 0,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 120,
+          "layer": "Enemy",
+          "name": "TrigerFlip",
+          "persistentUuid": "3a4785cb-adbd-4af3-a1b8-c048be419f57",
+          "width": 64,
+          "x": 180,
+          "y": 0,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 120,
+          "layer": "Enemy",
+          "name": "TrigerFlip",
+          "persistentUuid": "904d67f4-6a84-4c83-9711-929d7941f3a7",
+          "width": 64,
+          "x": 900,
+          "y": 360,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 120,
+          "layer": "Enemy",
+          "name": "TrigerFlip",
+          "persistentUuid": "652e2330-dc04-41c0-8f14-99a0d5161891",
+          "width": 64,
+          "x": 540,
+          "y": 360,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 120,
+          "layer": "Enemy",
+          "name": "TrigerFlip",
+          "persistentUuid": "e69939f8-cab3-4cdf-9b23-7a74a2a4bc6d",
+          "width": 64,
+          "x": 660,
+          "y": 180,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 120,
+          "layer": "Enemy",
+          "name": "TrigerFlip",
+          "persistentUuid": "3e19f68e-897b-41bc-834a-0ea18fd8e6f4",
+          "width": 64,
+          "x": 300,
+          "y": 180,
+          "zOrder": 36,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -26018,13 +26272,45 @@
           "customSize": true,
           "depth": 0,
           "height": 60,
-          "layer": "Enemy",
-          "name": "Monster",
-          "persistentUuid": "4a2f0e66-86d0-4e17-88d9-8ea357e87c5d",
+          "layer": "Background",
+          "name": "Land_Back2",
+          "persistentUuid": "9d5429d6-8584-4337-a75e-09c00e6e0594",
           "width": 60,
-          "x": 750,
-          "y": 90,
-          "zOrder": 13,
+          "x": 540,
+          "y": 660,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 30,
+          "layer": "Trap",
+          "name": "Trap",
+          "persistentUuid": "e87e9a2a-a886-485c-8c96-be3561e4e98b",
+          "width": 60,
+          "x": 540,
+          "y": 690,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 50,
+          "layer": "Object",
+          "name": "Health",
+          "persistentUuid": "54bda31c-1321-4fb2-9de0-d092dc924b96",
+          "width": 60,
+          "x": 300,
+          "y": 600,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -26855,62 +27141,202 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "TrigerFlip",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Main",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "DepartScene"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Opacity"
+                  },
+                  "parameters": [
+                    "TrigerFlip",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                ""
+              "comment": "Changes of Character"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "z"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ToggleGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Horizontal of Player"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Right"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    ""
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetSceneVariableAsBoolean"
-              },
-              "parameters": [
-                "finish",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyReleased"
-              },
-              "parameters": [
-                "",
-                "z"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ToggleGlobalVariableAsBoolean"
-              },
-              "parameters": [
-                "Player1"
-              ]
-            }
-          ]
+          "parameters": []
         },
         {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Archaeologist",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -26940,18 +27366,18 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Animation"
+                  "comment": "Animation of Idle and Walking"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
                       "type": {
-                        "value": "SceneVariableAsBoolean"
+                        "value": "PlatformBehavior::IsOnFloor"
                       },
                       "parameters": [
-                        "finish",
-                        ""
+                        "Archaeologist",
+                        "PlatformerObject"
                       ]
                     },
                     {
@@ -26976,11 +27402,53 @@
                     },
                     {
                       "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
+                        "inverted": true,
+                        "value": "AnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
-                        "PlatformerObject"
+                        "\"shooting\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"retract rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"throw rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
                       ]
                     }
                   ],
@@ -27001,6 +27469,15 @@
                   "conditions": [
                     {
                       "type": {
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "PlatformerObject"
+                      ]
+                    },
+                    {
+                      "type": {
                         "inverted": true,
                         "value": "PlatformBehavior::IsJumping"
                       },
@@ -27011,11 +27488,53 @@
                     },
                     {
                       "type": {
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                        "inverted": true,
+                        "value": "AnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
-                        "PlatformerObject"
+                        "\"shooting\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"retract rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"throw rope\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
                       ]
                     }
                   ],
@@ -27054,18 +27573,15 @@
                         "",
                         "v"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
                     {
                       "type": {
                         "value": "SetAnimationName"
@@ -27173,15 +27689,6 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "SceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "AnimationName"
                       },
                       "parameters": [
@@ -27199,15 +27706,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "False"
-                      ]
-                    },
                     {
                       "type": {
                         "value": "SetAnimationName"
@@ -27229,7 +27727,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Rope"
+                  "comment": "Animation of Rope"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -27245,15 +27743,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
                     {
                       "type": {
                         "value": "SetAnimationName"
@@ -27280,15 +27769,6 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "SceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "AnimationName"
                       },
                       "parameters": [
@@ -27306,15 +27786,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "False"
-                      ]
-                    },
                     {
                       "type": {
                         "value": "SetAnimationName"
@@ -27342,15 +27813,6 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "SetAnimationName"
                       },
                       "parameters": [
@@ -27375,15 +27837,6 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "SceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "AnimationName"
                       },
                       "parameters": [
@@ -27403,15 +27856,6 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "SetSceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "False"
-                      ]
-                    },
-                    {
-                      "type": {
                         "value": "SetAnimationName"
                       },
                       "parameters": [
@@ -27420,33 +27864,33 @@
                       ]
                     }
                   ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Bullet Size"
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
+                },
                 {
-                  "type": {
-                    "value": "ChangeScale"
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
                   },
-                  "parameters": [
-                    "Bullet",
-                    "=",
-                    "5"
+                  "comment": "Bullet Size"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Bullet",
+                        "=",
+                        "5"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -27489,11 +27933,20 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Animation"
+                  "comment": "Animation of Idle and Walking"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsOnFloor"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "PlatformerObject"
+                      ]
+                    },
                     {
                       "type": {
                         "inverted": true,
@@ -27516,11 +27969,53 @@
                     },
                     {
                       "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
+                        "inverted": true,
+                        "value": "AnimationName"
                       },
                       "parameters": [
                         "Archaeologist",
-                        "PlatformerObject"
+                        "\"AdBasicAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdAttack2\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdRollAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
                       ]
                     }
                   ],
@@ -27557,6 +28052,57 @@
                         "Archaeologist",
                         "PlatformerObject"
                       ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdBasicAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdAttack2\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdRollAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
                     }
                   ],
                   "actions": [
@@ -27570,6 +28116,222 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Animation of Attack Skill 123"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "x"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdBasicAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeAnimationSpeedScale"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "=",
+                        ".8"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdBasicAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Adidel\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "c"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdAttack2\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeAnimationSpeedScale"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "=",
+                        ".8"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdAttack2\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Adidel\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "v"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdRollAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ChangeAnimationSpeedScale"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "=",
+                        ".8"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"AdRollAttack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Adidel\""
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -27577,73 +28339,12 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Horizontal of Player"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Left"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Archaeologist",
-                "yes"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "Right"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Archaeologist",
-                ""
-              ]
-            }
-          ]
-        },
-        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Enemy",
+          "folded": true,
+          "name": "Enemy 1 Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -27657,18 +28358,268 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Animation"
+              "comment": "Horizontal Movement of Enemy"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "SceneVariableAsBoolean"
+                    "value": "AnimationName"
                   },
                   "parameters": [
-                    "finish",
-                    ""
+                    "Monster",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "Monster"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Raycast"
+                          },
+                          "parameters": [
+                            "Archaeologist",
+                            "Monster.X()",
+                            "Monster.Y()",
+                            "180",
+                            "100",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "Monster",
+                            "\"attack\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "Monster"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Raycast"
+                          },
+                          "parameters": [
+                            "Archaeologist",
+                            "Monster.X()",
+                            "Monster.Y()",
+                            "0",
+                            "100",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "Monster",
+                            "\"attack\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Monster",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionPoint"
+                  },
+                  "parameters": [
+                    "TrigerFlip",
+                    "Monster.PointX(\"cols\")",
+                    "Monster.PointY(\"cols\")"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "Monster"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "Monster",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionPoint"
+                  },
+                  "parameters": [
+                    "TrigerFlip",
+                    "Monster.PointX(\"cols\")",
+                    "Monster.PointY(\"cols\")"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "Monster"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Deciding"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"idle\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "Monster"
                   ]
                 },
                 {
@@ -27694,18 +28645,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "Horizontal Movement of Enemy"
             }
           ],
           "parameters": []
@@ -27715,7 +28654,8 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Enemy Heath System",
+          "folded": true,
+          "name": "Enemy 2 Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -27729,7 +28669,629 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Enemy 1 Heath"
+              "comment": "Horizontal Movement of Enemy"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSword"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Raycast"
+                          },
+                          "parameters": [
+                            "Archaeologist",
+                            "MonsterSword.X()",
+                            "MonsterSword.Y()",
+                            "180",
+                            "100",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "MonsterSword",
+                            "\"attack\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSword"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Raycast"
+                          },
+                          "parameters": [
+                            "Archaeologist",
+                            "MonsterSword.X()",
+                            "MonsterSword.Y()",
+                            "0",
+                            "100",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "MonsterSword",
+                            "\"attack\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "MonsterSword",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionPoint"
+                  },
+                  "parameters": [
+                    "TrigerFlip",
+                    "MonsterSword.PointX(\"cols\")",
+                    "MonsterSword.PointY(\"cols\")"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSword"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "MonsterSword",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionPoint"
+                  },
+                  "parameters": [
+                    "TrigerFlip",
+                    "MonsterSword.PointX(\"cols\")",
+                    "MonsterSword.PointY(\"cols\")"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSword"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Deciding"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"idle\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSword"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"walking\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Enemy 3 Animation",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Horizontal Movement of Enemy"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Raycast"
+                          },
+                          "parameters": [
+                            "Archaeologist",
+                            "MonsterSwordSheild.X()",
+                            "MonsterSwordSheild.Y()",
+                            "180",
+                            "100",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "MonsterSwordSheild",
+                            "\"attack\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Raycast"
+                          },
+                          "parameters": [
+                            "Archaeologist",
+                            "MonsterSwordSheild.X()",
+                            "MonsterSwordSheild.Y()",
+                            "0",
+                            "100",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetAnimationName"
+                          },
+                          "parameters": [
+                            "MonsterSwordSheild",
+                            "\"attack\""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "MonsterSwordSheild",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionPoint"
+                  },
+                  "parameters": [
+                    "TrigerFlip",
+                    "MonsterSwordSheild.PointX(\"cols\")",
+                    "MonsterSwordSheild.PointY(\"cols\")"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "no"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::ForEach",
+              "object": "MonsterSwordSheild",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionPoint"
+                  },
+                  "parameters": [
+                    "TrigerFlip",
+                    "MonsterSwordSheild.PointX(\"cols\")",
+                    "MonsterSwordSheild.PointY(\"cols\")"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippedX"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlipX"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Deciding"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"idle\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"walking\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Enemy Heath System = Player Damage System",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 1 Heath and Character 1 Attack"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -27852,47 +29414,20 @@
               "actions": [
                 {
                   "type": {
-                    "value": "SetSceneVariableAsBoolean"
+                    "value": "SetAnimationName"
                   },
                   "parameters": [
-                    "finish",
-                    "True"
+                    "Monster",
+                    "\"die\""
                   ]
-                }
-              ],
-              "events": [
+                },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "SceneVariableAsBoolean"
-                      },
-                      "parameters": [
-                        "finish",
-                        "True"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetAnimationName"
-                      },
-                      "parameters": [
-                        "Monster",
-                        "\"die\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetObjectTimer"
-                      },
-                      "parameters": [
-                        "Monster",
-                        "\"EnemyDead\""
-                      ]
-                    }
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"EnemyDead1\""
                   ]
                 }
               ]
@@ -27907,7 +29442,7 @@
                   },
                   "parameters": [
                     "Monster",
-                    "\"EnemyDead\"",
+                    "\"EnemyDead1\"",
                     ">",
                     "1"
                   ]
@@ -27952,7 +29487,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Enemy 2 Heath"
+              "comment": "Enemy 2 Heath and Character 1 Attack"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -28088,7 +29623,7 @@
                   },
                   "parameters": [
                     "MonsterSword",
-                    "\"EnemyDead\""
+                    "\"EnemyDead2\""
                   ]
                 }
               ]
@@ -28103,7 +29638,7 @@
                   },
                   "parameters": [
                     "MonsterSword",
-                    "\"EnemyDead\"",
+                    "\"EnemyDead2\"",
                     ">",
                     "1"
                   ]
@@ -28148,7 +29683,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Enemy 3 Heath"
+              "comment": "Enemy 3 Heath and Character 1 Attack"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -28284,7 +29819,7 @@
                   },
                   "parameters": [
                     "MonsterSwordSheild",
-                    "\"EnemyDead\""
+                    "\"EnemyDead3\""
                   ]
                 }
               ]
@@ -28299,7 +29834,7 @@
                   },
                   "parameters": [
                     "MonsterSwordSheild",
-                    "\"EnemyDead\"",
+                    "\"EnemyDead3\"",
                     ">",
                     "1"
                   ]
@@ -28333,172 +29868,38 @@
                   ]
                 }
               ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Button for the wall"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Archaeologist",
-                "Button",
-                "Button.PointY(\"top\")",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Button",
-                "\"Down\""
-              ]
             },
             {
-              "type": {
-                "value": "Delete"
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Button_Wall",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Treasure Box"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Archaeologist",
-                "Key_2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "Archaeologist",
-                "selverKey",
-                "True"
-              ]
+              "comment": "Enemy 1 Heath and Character 2 Attack"
             },
             {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Key_2",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "AnimationName"
-              },
-              "parameters": [
-                "Archaeologist",
-                "\"throw rope\""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Archaeologist",
-                "Key_2",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "Archaeologist",
-                "selverKey",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Key_2",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::And"
-              },
-              "parameters": [],
-              "subInstructions": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdBasicAttack\""
+                  ]
+                },
                 {
                   "type": {
                     "value": "CollisionNP"
                   },
                   "parameters": [
+                    "Monster",
                     "Archaeologist",
-                    "Treasure",
                     "",
                     "",
                     ""
@@ -28506,171 +29907,2371 @@
                 },
                 {
                   "type": {
-                    "value": "ObjectVariableAsBoolean"
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdAttack2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdRollAttack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"EnemyDead1\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"EnemyDead1\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "Monster"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Monster",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 2 Heath and Character 2 Attack"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdBasicAttack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdAttack2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdRollAttack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"EnemyDead2\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"EnemyDead2\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSword"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Enemy 3 Heath and Character 2 Attack"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdBasicAttack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdAttack2\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"AdRollAttack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Archaeologist",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "2.5",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResetObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"EnemyDead3\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CompareObjectTimer"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"EnemyDead3\"",
+                    ">",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"die\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimationEnded2"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Player Heath System = Enemy Damage System and Trap Damage System",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Player Heath and Enemy 1 Attack"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"attack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Monster"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "\"idle\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Monster",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Monster",
+                        "Archaeologist",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::Hit"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        "100",
+                        "no",
+                        "no",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Player Heath and Enemy 2 Attack"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"attack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "MonsterSword"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "\"idle\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "MonsterSword",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "MonsterSword",
+                        "Archaeologist",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::Hit"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        "100",
+                        "no",
+                        "no",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Player Heath and Enemy 3 Attack"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"attack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "Health",
+                    "="
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "\"idle\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "MonsterSwordSheild",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "MonsterSwordSheild",
+                        "Archaeologist",
+                        "",
+                        "",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::Hit"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        "100",
+                        "no",
+                        "no",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Player Heath and Trap"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Trap",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    "100",
+                    "no",
+                    "no",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"die\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Health",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Player1",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetGlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "GlobalVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "PDead",
+                    "True"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimationName"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "\"Addie\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimationEnded2"
+                      },
+                      "parameters": [
+                        "Archaeologist"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Treasure",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Treasure Box"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Key_2",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
                   },
                   "parameters": [
                     "Archaeologist",
                     "selverKey",
                     "True"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Key_2",
+                    ""
+                  ]
                 }
               ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Treasure",
-                "\"Open\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Final Door"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Archaeologist",
-                "Key",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "Archaeologist",
-                "GoldKey",
-                "True"
-              ]
             },
             {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Key",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "AnimationName"
-              },
-              "parameters": [
-                "Archaeologist",
-                "\"throw rope\""
-              ]
-            },
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Archaeologist",
-                "Key",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "Archaeologist",
-                "GoldKey",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "Delete"
-              },
-              "parameters": [
-                "Key",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BuiltinCommonInstructions::And"
-              },
-              "parameters": [],
-              "subInstructions": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
                 {
                   "type": {
                     "value": "CollisionNP"
                   },
                   "parameters": [
                     "Archaeologist",
-                    "Door",
+                    "Key_2",
                     "",
                     "",
                     ""
                   ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "selverKey",
+                    "True"
+                  ]
                 },
                 {
                   "type": {
-                    "value": "ObjectVariableAsBoolean"
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Key_2",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Treasure",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "selverKey",
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Treasure",
+                    "\"Open\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Final Door"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Key",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
                   },
                   "parameters": [
                     "Archaeologist",
                     "GoldKey",
                     "True"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Key",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "\"throw rope\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Key",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "GoldKey",
+                    "True"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Key",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "Door",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ObjectVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "Archaeologist",
+                        "GoldKey",
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Door",
+                    "\"Open\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Button for the wall"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "Button",
+                    "Button.PointY(\"top\")",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Button",
+                    "\"Down\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Button_Wall",
+                    ""
+                  ]
                 }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Door",
-                "\"Open\""
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
