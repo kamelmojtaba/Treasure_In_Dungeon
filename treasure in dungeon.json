@@ -14582,7 +14582,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.35534345588169924,
+        "zoomFactor": 0.2817259932079566,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14622,37 +14622,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "e44098cf-1fe0-4996-aa84-3dec0557f857",
-          "width": 500,
-          "x": 390,
-          "y": 580,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "7fcdfc3c-996e-4e25-8126-deb21f77a0f4",
-          "width": 0,
-          "x": 571,
-          "y": 603,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "Text",
@@ -14660,7 +14629,7 @@
           "persistentUuid": "133c9dbe-9b13-4a80-97f3-0d4c1e35e579",
           "width": 0,
           "x": 388,
-          "y": 36,
+          "y": 40,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -14678,22 +14647,6 @@
           "x": -363,
           "y": 153,
           "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 285,
-          "layer": "Text",
-          "name": "Archaeologist",
-          "persistentUuid": "90a0826f-d48d-48a5-8877-7722014aa14f",
-          "width": 179,
-          "x": 302,
-          "y": 403,
-          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14748,44 +14701,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "a06c63a2-23f3-48ec-8885-6ae779073f9c",
-          "width": 500,
-          "x": 1734,
-          "y": 580,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 1
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "b6b8c492-f1cb-4235-a01b-78d0e2f48add",
-          "width": 0,
-          "x": 1915,
-          "y": 603,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "Text",
@@ -14793,7 +14708,7 @@
           "persistentUuid": "15fc32ab-177c-42e4-8e09-24515051e868",
           "width": 0,
           "x": 1790,
-          "y": 41,
+          "y": 40,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -14834,22 +14749,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 285,
-          "layer": "Text",
-          "name": "Archaeologist",
-          "persistentUuid": "22caffc3-793b-476a-8e80-e899ba28f97e",
-          "width": 179,
-          "x": 1706,
-          "y": 386,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 720,
           "layer": "",
           "name": "Background",
@@ -14874,44 +14773,6 @@
           "x": 2703,
           "y": 15,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "ace1a318-891c-4ca8-ae7e-4cd6d1aa9e15",
-          "width": 500,
-          "x": 3078,
-          "y": 580,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "90b8f043-5c5d-4145-8d16-eff746e26a62",
-          "width": 0,
-          "x": 3259,
-          "y": 603,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14943,22 +14804,6 @@
           "x": 3319,
           "y": 371,
           "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 173,
-          "layer": "Text",
-          "name": "Archaeologist",
-          "persistentUuid": "f930c6fb-8f86-41d2-bd26-1662404889dd",
-          "width": 126,
-          "x": 3619,
-          "y": 303,
-          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15039,29 +14884,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "b9b8db0e-b63c-40d4-a1c3-5dedfb28a322",
-          "width": 500,
-          "x": 4550,
-          "y": 580,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 3
-            }
-          ]
         },
         {
           "angle": 0,
@@ -15183,7 +15005,7 @@
           "persistentUuid": "66b5cd7c-796d-43e3-9ffd-1e5e4e7f34f3",
           "width": 1254,
           "x": 2702,
-          "y": 5,
+          "y": 1,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -15199,7 +15021,7 @@
           "persistentUuid": "87237df3-ed70-4129-afb8-fe84cb6a29e1",
           "width": 1254,
           "x": 4166,
-          "y": 4,
+          "y": 1,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -15231,7 +15053,7 @@
           "persistentUuid": "753b23d6-c1df-422b-b35b-500e0d3cf5b5",
           "width": 1254,
           "x": 5634,
-          "y": 29,
+          "y": 1,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -15286,59 +15108,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "8363a277-07d9-4132-b2ba-96ee0bc1cd88",
-          "width": 0,
-          "x": 4737,
-          "y": 602,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "cc72458b-661c-4d16-9a84-057b51e67225",
-          "width": 500,
-          "x": 6004,
-          "y": 554,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "d96ef60b-ac60-4589-b4b2-2e4abb3c319a",
-          "width": 0,
-          "x": 6185,
-          "y": 577,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 0,
           "height": 685,
@@ -15357,22 +15126,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
-          "layer": "Board",
-          "name": "Mark5",
-          "persistentUuid": "c94b0d79-0499-40fe-8b53-d1b655537ba6",
-          "width": 1254,
-          "x": 7066,
-          "y": 28,
-          "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 720,
           "layer": "",
           "name": "Background",
@@ -15381,44 +15134,6 @@
           "x": 7049,
           "y": 0,
           "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "bb992a46-adc1-4b16-b80c-e08330aaced5",
-          "width": 500,
-          "x": 7445,
-          "y": 548,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "50276284-448c-432a-884b-4770b765d294",
-          "width": 0,
-          "x": 7626,
-          "y": 571,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15554,22 +15269,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
-          "layer": "Board",
-          "name": "Mark5",
-          "persistentUuid": "90e16504-cdd4-4551-ba94-769c11554a20",
-          "width": 1254,
-          "x": 8485,
-          "y": 15,
-          "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 720,
           "layer": "",
           "name": "Background",
@@ -15578,44 +15277,6 @@
           "x": 8468,
           "y": 0,
           "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "d0e79687-e2aa-4c1d-a1b5-d65396ee36a8",
-          "width": 500,
-          "x": 8864,
-          "y": 544,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "c4dd4686-4974-46ba-aa3b-a6558a901e09",
-          "width": 0,
-          "x": 9045,
-          "y": 567,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15717,22 +15378,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
-          "layer": "Board",
-          "name": "Mark5",
-          "persistentUuid": "8b574650-a856-400a-9c9e-870d076ccd8a",
-          "width": 1254,
-          "x": 9888,
-          "y": 14,
-          "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 720,
           "layer": "",
           "name": "Background",
@@ -15741,44 +15386,6 @@
           "x": 9871,
           "y": 0,
           "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "de755386-f124-4f81-9fa9-fbba73843478",
-          "width": 500,
-          "x": 10267,
-          "y": 543,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "Button",
-          "name": "Next",
-          "persistentUuid": "7218424c-5e86-422c-b1b1-b348799f4ccc",
-          "width": 0,
-          "x": 10448,
-          "y": 566,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15866,22 +15473,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 60,
-          "layer": "Board",
-          "name": "Mark5",
-          "persistentUuid": "d6d11e6c-6dd9-4f19-b85d-08573fdd959f",
-          "width": 1254,
-          "x": 11296,
-          "y": 14,
-          "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 720,
           "layer": "",
           "name": "Background",
@@ -15898,52 +15489,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 100,
-          "layer": "Button",
-          "name": "Button_Back",
-          "persistentUuid": "52cc1267-a716-4c24-b199-d4ff81b2d76a",
-          "width": 500,
-          "x": 11675,
-          "y": 543,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "folded": true,
-              "name": "ID",
-              "type": "number",
-              "value": 2
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
-          "height": 285,
-          "layer": "Text",
-          "name": "Archaeologist",
-          "persistentUuid": "f75baadb-39d6-4628-9e2d-d7bf29102445",
-          "width": 179,
-          "x": 12044,
-          "y": 361,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 0,
           "height": 290,
           "layer": "Text",
           "name": "Adventure",
           "persistentUuid": "cac47e9c-d190-4f67-9233-83a83c58721f",
           "width": 340,
-          "x": 12148,
-          "y": 229,
+          "x": 12182,
+          "y": 226,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -15997,15 +15549,1031 @@
         },
         {
           "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "0365d8b3-4c63-4afb-b009-5afa6423c44b",
+          "width": 350,
+          "x": 653,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 0
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "3ec39850-f09c-4cd1-a6f3-67e3b05d2795",
+          "width": 350,
+          "x": 253,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "21072763-0b56-4f39-871b-ebb246950ca1",
+          "width": 0,
+          "x": 364,
+          "y": 592,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 62,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "1c33e765-3ae9-4626-8c75-00e4e714febe",
+          "width": 141,
+          "x": 758,
+          "y": 592,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "3226a07d-7cb1-4568-a97a-0cad79b13d18",
+          "width": 350,
+          "x": 2200,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "076ef094-20a9-420b-8a18-b6334e5e613c",
+          "width": 350,
+          "x": 1800,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "7cf990b7-7bf5-4835-9b1a-7d432979387d",
+          "width": 350,
+          "x": 1400,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "9ba289c1-965f-42f3-84ee-de137c0775f6",
+          "width": 0,
+          "x": 1511,
+          "y": 592,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "Text",
           "name": "Back",
-          "persistentUuid": "1617cee6-3e08-4b26-b4c2-547d82ea5402",
+          "persistentUuid": "f97e9776-eaf1-479c-a5bd-7d1c97694d02",
           "width": 0,
-          "x": 11864,
-          "y": 563,
-          "zOrder": 49,
+          "x": 2309,
+          "y": 592,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "2d9c6956-0064-4928-8c44-15b89baf6160",
+          "width": 0,
+          "x": 1905,
+          "y": 592,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "ecacd5fd-7797-4482-8ea8-2a519201494c",
+          "width": 350,
+          "x": 3553,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "e8e95f5c-7750-4da2-95aa-316d2b364bd3",
+          "width": 350,
+          "x": 3153,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "c4681a25-1e76-44f4-917b-80339a4d79ac",
+          "width": 350,
+          "x": 2753,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "3d7fff5d-caee-41a2-aca9-1edfd3c75e92",
+          "width": 0,
+          "x": 2864,
+          "y": 592,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Back",
+          "persistentUuid": "01697d5c-122d-4d4f-8605-e2e48688da97",
+          "width": 0,
+          "x": 3662,
+          "y": 591,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "225c2576-1d9e-458c-8556-c36217d337a2",
+          "width": 0,
+          "x": 3258,
+          "y": 592,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "c0595970-e0f9-47f6-9917-2ca97ab4f09f",
+          "width": 350,
+          "x": 5035,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "a802c153-ba0a-4154-b02b-590953d99452",
+          "width": 350,
+          "x": 4635,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "41b21740-9fbc-4c1d-ae51-5a2a0078b07f",
+          "width": 350,
+          "x": 4235,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "d2e2e1f4-a2a3-46d9-8da8-de86877d1a81",
+          "width": 0,
+          "x": 4346,
+          "y": 591,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Back",
+          "persistentUuid": "c649b7b1-d77d-4f46-9e92-064bf5f49a08",
+          "width": 0,
+          "x": 5144,
+          "y": 591,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "309d974e-5805-460b-b99d-a48587bc8a1e",
+          "width": 0,
+          "x": 4740,
+          "y": 591,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "2a2828ac-cd9d-44f1-8f4a-6103366e36cf",
+          "width": 350,
+          "x": 6487,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "ab59308e-209c-428a-ac6f-5330cfbb7e5e",
+          "width": 350,
+          "x": 6087,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "ab4a9072-4bb1-4200-8bb3-702331dd9fd9",
+          "width": 350,
+          "x": 5687,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "228be41f-85b2-43e3-b8eb-f54d1d5d3da1",
+          "width": 0,
+          "x": 5798,
+          "y": 591,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Back",
+          "persistentUuid": "824f4694-6aed-4bd3-9c07-c3b168aad334",
+          "width": 0,
+          "x": 6596,
+          "y": 591,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "eb5206c2-f719-4802-8fc7-5517e9b8662b",
+          "width": 0,
+          "x": 6192,
+          "y": 591,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "62b91121-109b-430c-b45f-318574a9414d",
+          "width": 350,
+          "x": 7909,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "7e5ca016-c07e-450c-bbfd-5598b237f1f2",
+          "width": 350,
+          "x": 7509,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "617c437d-7c3f-44db-84a7-cf07e71a429f",
+          "width": 350,
+          "x": 7109,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "7984e321-d350-4c7c-91d2-de2a430352d5",
+          "width": 0,
+          "x": 7220,
+          "y": 591,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Back",
+          "persistentUuid": "b4b689d8-88fc-4c46-8a22-73ba2ca0e811",
+          "width": 0,
+          "x": 8018,
+          "y": 591,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "c26be9b2-75df-47ef-8639-85ec5b75a50e",
+          "width": 0,
+          "x": 7614,
+          "y": 591,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "4e965852-8734-4085-a946-03a5f58d129f",
+          "width": 350,
+          "x": 9343,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "b83eb5c9-3998-45a1-8a53-7cdba8478f04",
+          "width": 350,
+          "x": 8943,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "131330cd-6ac0-453f-9d90-4810fe1f4053",
+          "width": 350,
+          "x": 8543,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "4838eb1e-2ef4-40ef-8456-1ab9086ed41a",
+          "width": 0,
+          "x": 8654,
+          "y": 591,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Back",
+          "persistentUuid": "bc6ed1ed-51c0-4c54-818d-55574ed27c38",
+          "width": 0,
+          "x": 9452,
+          "y": 591,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "eff36dc0-c8de-4bc6-9d9d-cdf2dc911a2e",
+          "width": 0,
+          "x": 9048,
+          "y": 591,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "ad71f7e9-84f4-4bca-8c84-07c1d9b5ce0e",
+          "width": 350,
+          "x": 10747,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Next",
+          "persistentUuid": "031e9b14-3de7-495e-a952-afe46c238fad",
+          "width": 350,
+          "x": 10347,
+          "y": 570,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "ID",
+              "type": "number",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "310cbd28-a69c-4062-bf8d-ce8807dbc804",
+          "width": 350,
+          "x": 9947,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "17d14428-3b3a-4c4c-8a1d-bcc8580c8898",
+          "width": 0,
+          "x": 10058,
+          "y": 591,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Back",
+          "persistentUuid": "43455e6a-1b71-44dd-89df-27be6ecd01be",
+          "width": 0,
+          "x": 10856,
+          "y": 591,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Next",
+          "persistentUuid": "48af9782-c4ea-425b-8a00-d0da51099c0c",
+          "width": 0,
+          "x": 10452,
+          "y": 591,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Back",
+          "persistentUuid": "0860ac29-cb87-43ad-8314-a2d03994952f",
+          "width": 350,
+          "x": 11967,
+          "y": 570,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "folded": true,
+              "name": "BID",
+              "type": "number",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 100,
+          "layer": "Button",
+          "name": "Button_Home",
+          "persistentUuid": "b9a6fe19-0955-4434-b7a4-734a7fa17272",
+          "width": 350,
+          "x": 11483,
+          "y": 570,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Home",
+          "persistentUuid": "1f652a5f-7926-4611-9a73-7815f22f8ccd",
+          "width": 0,
+          "x": 11591,
+          "y": 592,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "Back",
+          "persistentUuid": "55513716-4ac5-45e6-b57e-6fa94333d205",
+          "width": 0,
+          "x": 12068,
+          "y": 592,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark6",
+          "persistentUuid": "8f87d3a8-3527-48a8-988d-258614217013",
+          "width": 1245,
+          "x": 7063,
+          "y": 1,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark7",
+          "persistentUuid": "a5590047-851d-4542-a37e-39e02c9c53ed",
+          "width": 1254,
+          "x": 8478,
+          "y": 1,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark8",
+          "persistentUuid": "48415984-a197-49d0-97cb-8a22085f14a9",
+          "width": 1254,
+          "x": 9884,
+          "y": 1,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "layer": "Board",
+          "name": "Mark9",
+          "persistentUuid": "94833047-33c0-4c51-b4fd-cbcb5d09b198",
+          "width": 1254,
+          "x": 11291,
+          "y": 1,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Text",
+          "name": "discription7",
+          "persistentUuid": "ba6b07f9-d89e-4055-bf9e-96a890da4477",
+          "width": 0,
+          "x": 5810,
+          "y": 478,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 280,
+          "layer": "Text",
+          "name": "Archaeologist2",
+          "persistentUuid": "573ab6a7-3905-4139-905b-4eb11e02c0cb",
+          "width": 200,
+          "x": 395,
+          "y": 390,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 280,
+          "layer": "Text",
+          "name": "Archaeologist2",
+          "persistentUuid": "f90f5194-36be-43fd-95c8-16dd85c626be",
+          "width": 200,
+          "x": 1764,
+          "y": 381,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 220,
+          "layer": "Text",
+          "name": "Archaeologist2",
+          "persistentUuid": "ee2c6924-cec1-432c-9b0e-dfc766c8fab7",
+          "width": 150,
+          "x": 3706,
+          "y": 312,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 280,
+          "layer": "Text",
+          "name": "Archaeologist2",
+          "persistentUuid": "b818997c-c1fe-488d-84bf-2967a522320d",
+          "width": 200,
+          "x": 12073,
+          "y": 369,
+          "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16096,7 +16664,63 @@
         },
         {
           "assetStoreId": "",
-          "name": "Button_Back",
+          "name": "Button_Home",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Assets_UI_UISheet-removebg-preview6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Button_Next",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -16104,6 +16728,69 @@
             {
               "folded": true,
               "name": "ID",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 0
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Assets_UI_UISheet-removebg-preview6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Button_Back",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "BID",
               "type": "number",
               "value": 0
             }
@@ -16156,6 +16843,28 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "Home",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Home",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 80,
+          "color": {
+            "b": 35,
+            "g": 166,
+            "r": 245
+          }
         },
         {
           "assetStoreId": "",
@@ -16535,6 +17244,28 @@
           "assetStoreId": "",
           "bold": true,
           "italic": false,
+          "name": "discription7",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "It will apply damage 1 hearth ! Be careful!",
+          "font": "Assets\\Word\\Charybdis.ttf",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
           "name": "Enemiesname",
           "smoothed": true,
           "tags": "",
@@ -16737,6 +17468,54 @@
           "assetStoreId": "",
           "height": 60,
           "name": "Mark5",
+          "tags": "",
+          "texture": "Assets\\New image.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 60,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 60,
+          "name": "Mark6",
+          "tags": "",
+          "texture": "Assets\\New image.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 60,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 60,
+          "name": "Mark7",
+          "tags": "",
+          "texture": "Assets\\New image.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 60,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 60,
+          "name": "Mark8",
+          "tags": "",
+          "texture": "Assets\\New image.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 60,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 60,
+          "name": "Mark9",
           "tags": "",
           "texture": "Assets\\New image.png",
           "type": "TiledSpriteObject::TiledSprite",
@@ -17007,7 +17786,7 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
@@ -17042,6 +17821,916 @@
                         "name": "centre",
                         "x": 0,
                         "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "Archaeologist2",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "folded": true,
+              "name": "selverKey",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "GoldKey",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "Health",
+              "type": "number",
+              "value": 3
+            },
+            {
+              "folded": true,
+              "name": "MaxHealth",
+              "type": "number",
+              "value": 3
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet17",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "rolling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet18",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet19",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet20",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet21",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet22",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet23",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet24",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "retract rope",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope13",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope15",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "retract rope16",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 33,
+                        "y": 17
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "throw rope",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "throw rope",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "throw rope2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "throw rope3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "throw rope4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "throw rope5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "throw rope6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 22,
+                        "y": 16
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "shooting",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\shooting5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\shooting6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\shooting7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\shooting8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 9,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "die",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet43",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet44",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet45",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet46",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Assets\\Players\\Archaeologist Sprite Sheet47",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 14,
+                        "y": 11
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 14,
+                        "y": 11
                       },
                       "customCollisionMask": []
                     }
@@ -17141,7 +18830,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Button Home",
+          "name": "Button Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -17155,7 +18844,369 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Animation of Button Home"
+              "comment": "Button Home"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_Home",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.5",
+                        "2.3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "Tween",
+                        "\"Press\"",
+                        "0.9",
+                        "1.7",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Button_Home",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.5",
+                        "2.3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PopScene"
+                      },
+                      "parameters": [
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_Home",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "Button_Home",
+                    "Tween",
+                    "\"Default\"",
+                    "1.2",
+                    "2",
+                    "\"bouncePast\"",
+                    "100",
+                    "no",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Button Next"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Button_Next",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.5",
+                        "2.3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Button_Next",
+                        "Tween",
+                        "\"Press\"",
+                        "0.9",
+                        "1.7",
+                        "\"easeOutQuad\"",
+                        "50",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Tween::AddObjectScaleTween"
+                      },
+                      "parameters": [
+                        "Button_Next",
+                        "Tween",
+                        "\"Hover\"",
+                        "1.5",
+                        "2.3",
+                        "\"bouncePast\"",
+                        "100",
+                        "no",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "",
+                    "yes",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::AddObjectScaleTween"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "Tween",
+                    "\"Default\"",
+                    "1.2",
+                    "2",
+                    "\"bouncePast\"",
+                    "100",
+                    "no",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Button Back"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -17193,8 +19244,8 @@
                         "Button_Back",
                         "Tween",
                         "\"Hover\"",
+                        "1.5",
                         "2.3",
-                        "2.8",
                         "\"bouncePast\"",
                         "100",
                         "no",
@@ -17231,8 +19282,8 @@
                         "Button_Back",
                         "Tween",
                         "\"Press\"",
-                        "1.9",
-                        "2.4",
+                        "0.9",
+                        "1.7",
                         "\"easeOutQuad\"",
                         "50",
                         "no",
@@ -17269,20 +19320,12 @@
                         "Button_Back",
                         "Tween",
                         "\"Hover\"",
+                        "1.5",
                         "2.3",
-                        "2.8",
                         "\"bouncePast\"",
                         "100",
                         "no",
                         "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PopScene"
-                      },
-                      "parameters": [
-                        ""
                       ]
                     }
                   ]
@@ -17320,8 +19363,8 @@
                     "Button_Back",
                     "Tween",
                     "\"Default\"",
+                    "1.2",
                     "2",
-                    "2.7",
                     "\"bouncePast\"",
                     "100",
                     "no",
@@ -17334,479 +19377,1854 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": ""
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Slide",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Archaeologist",
-                "PlatformerObject",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "PlatformerObject",
+                    ""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Adventure",
-                "PlatformerObject",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "StayOnScreen",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "StayOnScreen",
+                    ""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ActivateBehavior"
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Monster",
-                "PlatformerObject",
-                ""
+              "comment": "Function of Button Next"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist2",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "\"walking\""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "MonsterSword",
-                "PlatformerObject",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist2",
+                    "\"shooting\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "\"kurukuru\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeAnimationSpeedScale"
+                  },
+                  "parameters": [
+                    "Archaeologist2",
+                    "=",
+                    ".8"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeAnimationSpeedScale"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "=",
+                    ".8"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "MonsterSwordSheild",
-                "PlatformerObject",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Adventure",
-                "StayOnScreen",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"walking\""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Archaeologist",
-                "StayOnScreen",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "Button_Back",
-                "ButtonFSM",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "VarObjet"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "6"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Next",
+                    "ID",
+                    "=",
+                    "7"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark9.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark9.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark9.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark9.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
               },
-              "parameters": [
-                "Button_Back",
-                "ID",
-                "=",
-                "0"
+              "comment": "Function of Button Back"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark1.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark1.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark1.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark1.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist2",
+                    "\"idle\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "\"idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"can\"",
+                    "Mark2.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist2",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "\"walking\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark3.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Archaeologist2",
+                    "\"shooting\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "\"kurukuru\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeAnimationSpeedScale"
+                  },
+                  "parameters": [
+                    "Archaeologist",
+                    "=",
+                    ".8"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeAnimationSpeedScale"
+                  },
+                  "parameters": [
+                    "Adventure",
+                    "=",
+                    ".8"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark4.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Monster",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSword",
+                    "\"walking\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "MonsterSwordSheild",
+                    "\"walking\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark5.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "6"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark6.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "7"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark7.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsClicked"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Button_Back",
+                    "BID",
+                    "=",
+                    "8"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY(\"Text\", 0)",
+                    "\"Text\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY(\"Board\", 0)",
+                    "\"Board\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY(\"Button\", 0)",
+                    "\"Button\"",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Tween::TweenCameraPosition"
+                  },
+                  "parameters": [
+                    "",
+                    "\"cam\"",
+                    "Mark8.CenterX()",
+                    "CameraCenterY()",
+                    "",
+                    "500",
+                    "\"easeInQuad\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Mark 1 to 9"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark1",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark2",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark3",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark4",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark5",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark6",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark7",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark8",
+                    "=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::SetOpacity"
+                  },
+                  "parameters": [
+                    "Mark9",
+                    "=",
+                    "0"
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark2.CenterX()",
-                "CameraCenterY(\"Text\", 0)",
-                "\"Text\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark2.CenterX()",
-                "CameraCenterY(\"Board\", 0)",
-                "\"Board\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark2.CenterX()",
-                "CameraCenterY(\"Button\", 0)",
-                "\"Button\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark2.CenterX()",
-                "CameraCenterY()",
-                "",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Archaeologist",
-                "\"walking\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Adventure",
-                "\"walking\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "Button_Back",
-                "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "Button_Back",
-                "ID",
-                "=",
-                "1"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark3.CenterX()",
-                "CameraCenterY(\"Text\", 0)",
-                "\"Text\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark3.CenterX()",
-                "CameraCenterY(\"Board\", 0)",
-                "\"Board\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark3.CenterX()",
-                "CameraCenterY(\"Button\", 0)",
-                "\"Button\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark3.CenterX()",
-                "CameraCenterY()",
-                "",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Archaeologist",
-                "\"shooting\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Adventure",
-                "\"kurukuru\""
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangeAnimationSpeedScale"
-              },
-              "parameters": [
-                "Archaeologist",
-                "=",
-                ".8"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangeAnimationSpeedScale"
-              },
-              "parameters": [
-                "Adventure",
-                "=",
-                ".8"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "Button_Back",
-                "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarObjet"
-              },
-              "parameters": [
-                "Button_Back",
-                "ID",
-                "=",
-                "2"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark4.CenterX()",
-                "CameraCenterY(\"Text\", 0)",
-                "\"Text\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark4.CenterX()",
-                "CameraCenterY(\"Board\", 0)",
-                "\"Board\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark4.CenterX()",
-                "CameraCenterY(\"Button\", 0)",
-                "\"Button\"",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Tween::TweenCameraPosition"
-              },
-              "parameters": [
-                "",
-                "\"cam\"",
-                "Mark4.CenterX()",
-                "CameraCenterY()",
-                "",
-                "500",
-                "\"easeInQuad\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Monster",
-                "\"walking\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "MonsterSword",
-                "\"walking\""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "MonsterSwordSheild",
-                "\"walking\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "TiledSpriteObject::SetOpacity"
-              },
-              "parameters": [
-                "Mark1",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::SetOpacity"
-              },
-              "parameters": [
-                "Mark2",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::SetOpacity"
-              },
-              "parameters": [
-                "Mark3",
-                "=",
-                "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "TiledSpriteObject::SetOpacity"
-              },
-              "parameters": [
-                "Mark4",
-                "=",
-                "0"
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
@@ -28258,7 +31676,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Victory",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -49322,7 +52739,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 60,
         "gridHeight": 60,
@@ -49330,8 +52747,8 @@
         "gridOffsetY": 10,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.5290357402156839,
+        "snap": false,
+        "zoomFactor": 0.5290357402156841,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -50625,8 +54042,8 @@
           "name": "Stair1",
           "persistentUuid": "59859ee0-9231-45b0-b9b3-c60fec6515e2",
           "width": 60,
-          "x": 200,
-          "y": 490,
+          "x": 273,
+          "y": 495,
           "zOrder": 47,
           "numberProperties": [],
           "stringProperties": [],
